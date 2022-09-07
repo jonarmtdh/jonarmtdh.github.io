@@ -1,4 +1,4 @@
-### Design
+# Design
 
 This header introduces 3 main size variants (SM, M, L) with toggles for:
 * Expanded/Condensed (New header item subcomponent)
@@ -7,22 +7,22 @@ This header introduces 3 main size variants (SM, M, L) with toggles for:
 
 ## Subcomponents
 Header/Subcomponents/
-# Left side:
+### Left side:
 * Logo (for 4 TDOC brands - Current, legacy, legacy LVGO, legacy MyStrength)
 * Cobrand placeholder
 * Page or site name placeholder
 * Tab-item
 
-# Right side:
+### Right side:
 *  Header-item
 -  Help
 -  Messages
 -  Profile (has condensed and expanded versions)
 -  Hamburger menu (for small & medium sizes)
 
-### Changelog
+## Changelog
 * Dramatically reduced the amount of variants in this component
-## Introduced
+### Introduced
 * New Menu item subcomponent (multiple states; Editable label)
 * New cobranding subcomponent
 * Propped Primary brand logo selector

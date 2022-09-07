@@ -15,10 +15,10 @@ Header/Subcomponents/
 
 # Right side:
 *  Header-item
-* * Help
-* * Messages
-* * Profile (has condensed and expanded versions)
-* * Hamburger menu (for small & medium sizes)
+-  Help
+-  Messages
+-  Profile (has condensed and expanded versions)
+-  Hamburger menu (for small & medium sizes)
 
 ### Changelog
 * Dramatically reduced the amount of variants in this component
@@ -29,17 +29,17 @@ Header/Subcomponents/
 * Header-item subcomponent (propped badge; propped icon, with boolean and propped Label)
 * Propped Tab 
 * Propped Header-profile subcomponent
-* * Avatar (propped, boolean)
-* * Icon button (propped, boolean)
-* * User Name (propped, boolean)
+-  Avatar (propped, boolean)
+-  Icon button (propped, boolean)
+-  User Name (propped, boolean)
 * Header-sign-in subcomponent (boolean)
 * Boolean icons (right side of header)
 * Boolean for signed in/signed out
 * Introduced hint icons in front of the layer name in actionable layers:
-* * A pointer icon prior to the layer name to indicate where a user can select that layer to further edit a subcomponent
-* * A pencil icon prior to the layer name for editable text layers
+-  A pointer icon prior to the layer name to indicate where a user can select that layer to further edit a subcomponent
+-  A pencil icon prior to the layer name for editable text layers
 * New sizing:
-* * Small - 375
-* * Medium - 768
-* * Large - 1200
+-  Small - 375
+-  Medium - 768
+-  Large - 1200
 * Followed guidance from existing header work using auto-layout to space subcomponents

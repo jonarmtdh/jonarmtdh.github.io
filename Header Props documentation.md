@@ -6,7 +6,7 @@ This header introduces 3 main size variants (SM, M, L) with toggles for:
 * 12 total main variants
 
 ## Subcomponents
-~Header/Subcomponents/~
+`Header/Subcomponents/`
 
 ### Left side:
 * Logo (for 4 TDOC brands - Current, legacy, legacy LVGO, legacy MyStrength)

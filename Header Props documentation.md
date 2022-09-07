@@ -15,10 +15,10 @@ Header/Subcomponents/
 
 ### Right side:
 *  Header-item
--  Help
--  Messages
--  Profile (has condensed and expanded versions)
--  Hamburger menu (for small & medium sizes)
+    -  Help
+    -  Messages
+    -  Profile (has condensed and expanded versions)
+    -  Hamburger menu (for small & medium sizes)
 
 ## Changelog
 * Dramatically reduced the amount of variants in this component

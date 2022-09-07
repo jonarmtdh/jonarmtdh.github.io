@@ -1,316 +1,36 @@
-<div class="ql-editor ui-sortable" data-gramm="false" contenteditable="false"><h2 class="zh-header" id="60f002">Usage</h2><p>Headers are generally used for primary or secondary navigation, and to brand experiences. On web, headers may be coupled with sidebar menu navigation and enhanced by dropdown menus.</p><h2 class="zh-header" id="4048ab">Assembling web headers</h2><div class="sketch-items normal-whitespace zhembed" contenteditable="false" id="view428" spellcheck="false" autocorrect="off"><div id="4848898" class="sketch-block-view full-width disable-selecting relative mgb10" contenteditable="false"><div class="content full-width-plus-4 nmgl2 nmgt2"><div class="flex flex-wrap sketch-collection ui-sortable"><div data-cy="sketch-item-view" class="relative sketch-item item-79160305"><div class="mg2 relative sketch-item--inner sketch-item--symbol flex-column-below-700">
-  <div class="drag absolute pos-top0 pos-left0" style="height: 83px;"><div class="drag-icon full-height flex-center display-none ui-sortable-handle"><div id="sortable" class="grab-pointer icon-fill wi3 h9 z2" style="margin-left: -7px;">
-  <svg style=";fill:none;" class="drag-item" width="14" height="43" viewBox="0 0 14 43" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M6.76649965 10.60823377l4 1.96890335C12.1339054 13.25020957 13 14.64185452 13 16.16593623V29.1161462c0 2.209139-1.790861 4-4 4-.55570137 0-1.10530643-.1157882-1.61377562-.3399825l-4-1.7636808C1.93591498 30.3730122 1 28.9374954 1 27.3524654V14.19703287c0-2.209139 1.790861-4 4-4 .61255094 0 1.21691908.14068315 1.76649965.4112009z" fill="#FFF"></path><g transform="translate(2 12)" fill="#D9D9D9"><ellipse cx="1.98768542" cy="2" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="5" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="11" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="17" rx="1.98768542" ry="2"></ellipse><ellipse cx="1.98768542" cy="8" rx="1.98768542" ry="2"></ellipse><ellipse cx="1.98768542" cy="14" rx="1.98768542" ry="2"></ellipse></g></g></svg>
-</div></div></div>
-  <div class="thumbnail"><button aria-label="Basic Teladoc Health header" class="sketch-item--thumbnail flex-center overflow-hidden relative neutrals-dark-background" style="width: 848px; padding-top: 16px; padding-bottom: 16px;"><div class="select absolute z2 pos-top2 pos-left2 hover-pointer display-none">
-  <div class="unselected element-secondary-reversed-fill element-reversed-fill-hover display-none">
-    <svg style=";fill:none;" class="checkbox-Outline hg6 wg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M12 23c6.0751322 0 11-4.9248678 11-11 0-6.07513225-4.9248678-11-11-11C5.92486775 1 1 5.92486775 1 12c0 6.0751322 4.92486775 11 11 11zm0 1C5.372583 24 0 18.627417 0 12S5.372583 0 12 0s12 5.372583 12 12-5.372583 12-12 12z" id="__aDnt09L__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__aDnt09L__a" fill="#333"></use></g></svg>
-  </div>
-  <div class="selected display-none">
-    <svg style=";fill:none;" class="checkbox-Filled hg6 wg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M12 24C5.372583 24 0 18.627417 0 12S5.372583 0 12 0s12 5.372583 12 12-5.372583 12-12 12z" fill="#F63E7C"></path><path fill="#FFF" d="M10.5930976 16L18 9.1098294 16.8367334 8l-6.3198922 5.7348884-3.3516981-3.1230567L6 11.5854581z"></path></g></svg>
-  </div>
-</div>
+# Usage
+Headers are generally used for primary or secondary navigation, and to brand experiences. On web, headers may be coupled with sidebar menu navigation and enhanced by dropdown menus.Assembling web headers
+  
+    Basic Teladoc Health header
 
-<div class="overlay full-height border-box z1 absolute pos-top0 pos-left0 full-width" style="display: none;">
-  <div class="full-width full-height border-box flex flex-center overlay-medium border border-color-10">
-    <div class="asset-thumbnail-inspect-button read-only">
-      <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
-        <path d="M10 13.33H3a1 1 0 01-1-1V3.67a1 1 0 011-1h10a1 1 0 011 1v5.66"></path>
-        <path d="M8.67 10.67a2.67 2.67 0 100-5.34 2.67 2.67 0 000 5.34zM14 13.33L10.67 10"></path>
-      </svg>
-      <span>Inspect</span>
-    </div>
-  </div>
+   image? 
 
-  <div class="menu absolute pos-top2 pos-right2 
-      hover-pointer element-secondary-reversed-fill
-      element-reversed-fill-hover display-none">
-    <svg style=";fill:none;" class="Icon-More" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M6 10.25c.96649831 0 1.75.7835017 1.75 1.75S6.96649831 13.75 6 13.75 4.25 12.9664983 4.25 12s.78350169-1.75 1.75-1.75zm6 0c.9664983 0 1.75.7835017 1.75 1.75s-.7835017 1.75-1.75 1.75-1.75-.7835017-1.75-1.75.7835017-1.75 1.75-1.75zm6 0c.9664983 0 1.75.7835017 1.75 1.75s-.7835017 1.75-1.75 1.75-1.75-.7835017-1.75-1.75.7835017-1.75 1.75-1.75z" id="__2u62iOE__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__2u62iOE__a" fill="#333"></use></g></svg>
-  </div>
-</div>
-
+    All header item types
+  Image ?
 
   
-    <div class="annotation-overlay absolute" style="width: 816px; height: 51px; display: none;"></div>
-    <img src="https://zeroheight-uploads.s3-accelerate.amazonaws.com/aa6e825e76e575ef762a9e?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA3AVNYHQK4QFFEFF5%2F20220907%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220907T210427Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8bb14ecf996041c34d377bccffa17578c0836b2e74bc5fc032eb065041e7bc00" alt="Basic Teladoc Health header" class="image mxhg46 mxwg46" style="max-width: 816px; max-height: unset;">
-  
+Group header elements by functionality
 
+Though header contents vary widely across the Teladoc Health ecosystem, the functionality of header elements remains fairly consistent. To further increase consistency, header elements should be grouped based on functionality. The functional groups we support are as follows:Branding (and partner co-branding, as applicable)Page title (as applicable to support legacy headers)
 
-</button></div>
-  <div class="sketch-item--text selectable">
-    <div class="flex-vertical-center mgt2 hg6 name-row" style="max-width: 848px; height: 24px;">
-      <div class="name flex-vertical-center type_heading-medium truncate flex-grow"><div class="relative truncate flex-grow flex-vertical-center mihg5"><!-- We need an empty href here, rather than a hash one. This is due to back button compatibility. -->
-<div draggable="false" class="text-container block mihg5 miwg2 flex-vertical-center flex-grow text-field-view--name
-selectable
-" '="">
-  
-    <span class="display-name truncate"><div data-cy="tooltip-wrapper" title="Basic Teladoc Health header" class="Tooltipstyled__StyledTooltipWrapper-iKLMLN ccnBFh BlockItemNamestyled__BlockItemNameStyled-gHxRKC efkAyp"><span type="heading.medium" class="Text-bbIbrg BlockItemNamestyled__TextStyled-gtDunx hhubVN">Basic Teladoc Health header</span></div></span>
-  
-</div>
-<div class="edit no-show-on-drag  hover-pointer display-none flex-vertical-center mgl1">
-  
-  <svg style="fill: none; width: 24px; height: 24px;" class="Icon-Edit color-icon-secondary" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M16.9393398 11L13 7.06066017 4.06066017 16 8 19.9393398 16.9393398 11zM18 9.93933983L19.9393398 8 16 4.06066017 14.0606602 6 18 9.93933983zM6.18933983 20.25L3.75 17.8106602V20.25h2.43933983zM21.5303301 8.53033009L8.53033009 21.5303301C8.3896778 21.6709824 8.19891237 21.75 8 21.75H3c-.41421356 0-.75-.3357864-.75-.75v-5c0-.1989124.07901763-.3896778.21966991-.5303301L15.4696699 2.46966991c.2928932-.29289321.767767-.29289321 1.0606602 0l5 5c.2928932.29289322.2928932.76776696 0 1.06066018z" id="__1VG9JQP__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__1VG9JQP__a" fill="#333"></use></g></svg>
-</div>
-</div></div>
-      <div class="synced-with flex-vertical-center display-none">
-        <svg style="fill: none; width: 24px; height: 24px;" class="Icon-FigmaItem hg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M8 24c2.208 0 4-1.792 4-4v-4H8c-2.208 0-4 1.792-4 4s1.792 4 4 4z" fill="#0ACF83"></path><path d="M4 12c0-2.208 1.792-4 4-4h4v8H8c-2.208 0-4-1.792-4-4z" fill="#A259FF"></path><path d="M4 4c0-2.208 1.792-4 4-4h4v8H8C5.792 8 4 6.208 4 4z" fill="#F24E1E"></path><path d="M12 0h4c2.208 0 4 1.792 4 4s-1.792 4-4 4h-4V0z" fill="#FF7262"></path><path d="M20 12c0 2.208-1.792 4-4 4s-4-1.792-4-4 1.792-4 4-4 4 1.792 4 4z" fill="#1ABCFE"></path></g></svg>
-      </div>
-      <div class="asset-dl flex-vertical-center hover-pointer display-none">
-        <svg style="fill: none; width: 24px; height: 24px;" class="Icon-Download element-secondary-fill hg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M11.25 14.1893398V2c0-.41421356.3357864-.75.75-.75s.75.33578644.75.75v12.1893398l2.7196699-2.7196699c.2928932-.2928932.767767-.2928932 1.0606602 0 .2928932.2928932.2928932.767767 0 1.0606602l-4 4c-.2928932.2928932-.767767.2928932-1.0606602 0l-3.99999999-4c-.29289321-.2928932-.29289321-.767767 0-1.0606602.29289322-.2928932.76776696-.2928932 1.06066018 0L11.25 14.1893398zM2.25 17c0-.4142136.33578644-.75.75-.75s.75.3357864.75.75v3c0 .6903559.55964406 1.25 1.25 1.25h14c.6903559 0 1.25-.5596441 1.25-1.25v-3c0-.4142136.3357864-.75.75-.75s.75.3357864.75.75v3c0 1.5187831-1.2312169 2.75-2.75 2.75H5c-1.51878306 0-2.75-1.2312169-2.75-2.75v-3z" id="__WRMcgJJ__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__WRMcgJJ__a" fill="#333"></use></g></svg>
-      </div>
-    </div>
+Header functional groups
+    Insert image here
     
-    <div class="description" style="max-width: 848px;"></div>
-    <div class="annotations" style="max-width: 848px;"></div>
-    <div class="notes display-none" style="max-width: 848px; display: block;"><div class="mihg6 mgt2">  <div class="notes-placeholder text-cursor display-none type_color-tertiary hover-pointer type_interface-small underline">
-    Add notes
-  </div>
-  <div class="notes text-cursor display-none
-      selectable type_interface-small"></div>
-</div></div>
-  </div>
-</div>
-</div><div data-cy="sketch-item-view" class="relative sketch-item item-79160306"><div class="mg2 relative sketch-item--inner sketch-item--symbol flex-column-below-700">
-  <div class="drag absolute pos-top0 pos-left0" style="height: 83px;"><div class="drag-icon full-height flex-center display-none ui-sortable-handle"><div id="sortable" class="grab-pointer icon-fill wi3 h9 z2" style="margin-left: -7px;">
-  <svg style=";fill:none;" class="drag-item" width="14" height="43" viewBox="0 0 14 43" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M6.76649965 10.60823377l4 1.96890335C12.1339054 13.25020957 13 14.64185452 13 16.16593623V29.1161462c0 2.209139-1.790861 4-4 4-.55570137 0-1.10530643-.1157882-1.61377562-.3399825l-4-1.7636808C1.93591498 30.3730122 1 28.9374954 1 27.3524654V14.19703287c0-2.209139 1.790861-4 4-4 .61255094 0 1.21691908.14068315 1.76649965.4112009z" fill="#FFF"></path><g transform="translate(2 12)" fill="#D9D9D9"><ellipse cx="1.98768542" cy="2" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="5" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="11" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="17" rx="1.98768542" ry="2"></ellipse><ellipse cx="1.98768542" cy="8" rx="1.98768542" ry="2"></ellipse><ellipse cx="1.98768542" cy="14" rx="1.98768542" ry="2"></ellipse></g></g></svg>
-</div></div></div>
-  <div class="thumbnail"><button aria-label="All header item types" class="sketch-item--thumbnail flex-center overflow-hidden relative neutrals-dark-background hover-zoom-pointer" style="width: 848px; padding-top: 16px; padding-bottom: 16px;"><div class="select absolute z2 pos-top2 pos-left2 hover-pointer display-none">
-  <div class="unselected element-secondary-reversed-fill element-reversed-fill-hover display-none">
-    <svg style=";fill:none;" class="checkbox-Outline hg6 wg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M12 23c6.0751322 0 11-4.9248678 11-11 0-6.07513225-4.9248678-11-11-11C5.92486775 1 1 5.92486775 1 12c0 6.0751322 4.92486775 11 11 11zm0 1C5.372583 24 0 18.627417 0 12S5.372583 0 12 0s12 5.372583 12 12-5.372583 12-12 12z" id="__aDnt09L__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__aDnt09L__a" fill="#333"></use></g></svg>
-  </div>
-  <div class="selected display-none">
-    <svg style=";fill:none;" class="checkbox-Filled hg6 wg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M12 24C5.372583 24 0 18.627417 0 12S5.372583 0 12 0s12 5.372583 12 12-5.372583 12-12 12z" fill="#F63E7C"></path><path fill="#FFF" d="M10.5930976 16L18 9.1098294 16.8367334 8l-6.3198922 5.7348884-3.3516981-3.1230567L6 11.5854581z"></path></g></svg>
-  </div>
-</div>
-
-<div class="overlay full-height border-box z1 absolute pos-top0 pos-left0 full-width" style="opacity: 1; display: none;">
-  <div class="full-width full-height border-box flex flex-center overlay-medium border border-color-10">
-    <div class="asset-thumbnail-inspect-button read-only">
-      <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
-        <path d="M10 13.33H3a1 1 0 01-1-1V3.67a1 1 0 011-1h10a1 1 0 011 1v5.66"></path>
-        <path d="M8.67 10.67a2.67 2.67 0 100-5.34 2.67 2.67 0 000 5.34zM14 13.33L10.67 10"></path>
-      </svg>
-      <span>Inspect</span>
-    </div>
-  </div>
-
-  <div class="menu absolute pos-top2 pos-right2 
-      hover-pointer element-secondary-reversed-fill
-      element-reversed-fill-hover display-none">
-    <svg style=";fill:none;" class="Icon-More" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M6 10.25c.96649831 0 1.75.7835017 1.75 1.75S6.96649831 13.75 6 13.75 4.25 12.9664983 4.25 12s.78350169-1.75 1.75-1.75zm6 0c.9664983 0 1.75.7835017 1.75 1.75s-.7835017 1.75-1.75 1.75-1.75-.7835017-1.75-1.75.7835017-1.75 1.75-1.75zm6 0c.9664983 0 1.75.7835017 1.75 1.75s-.7835017 1.75-1.75 1.75-1.75-.7835017-1.75-1.75.7835017-1.75 1.75-1.75z" id="__2u62iOE__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__2u62iOE__a" fill="#333"></use></g></svg>
-  </div>
-</div>
-
-
   
-    <div class="annotation-overlay absolute" style="width: 816px; height: 51px; display: none;"></div>
-    <img src="https://zeroheight-uploads.s3-accelerate.amazonaws.com/8190974440cb20f39575a4?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA3AVNYHQK4QFFEFF5%2F20220907%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220907T210427Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=23ef8086541ebdb33c26c0026767bbcc6cd032e9088a728de57ca50177b0bdc3" alt="All header item types" class="image mxhg46 mxwg46" style="max-width: 816px; max-height: unset;">
-  
+    Teladoc Health ecosystem headers with functional group mappings
 
+Spacing and responsive behaviorOn large screens, headers should have a minimum height of 72 pixels and should have 24 pixels of left and right padding.On small screens, headers should have a minimum height of 64 pixels and should have 16 pixels of left and right padding.
 
-</button></div>
-  <div class="sketch-item--text selectable">
-    <div class="flex-vertical-center mgt2 hg6 name-row" style="max-width: 848px; height: 24px;">
-      <div class="name flex-vertical-center type_heading-medium truncate flex-grow"><div class="relative truncate flex-grow flex-vertical-center mihg5"><!-- We need an empty href here, rather than a hash one. This is due to back button compatibility. -->
-<div draggable="false" class="text-container block mihg5 miwg2 flex-vertical-center flex-grow text-field-view--name
-selectable
-" '="">
-  
-    <span class="display-name truncate"><div data-cy="tooltip-wrapper" title="All header item types" class="Tooltipstyled__StyledTooltipWrapper-iKLMLN ccnBFh BlockItemNamestyled__BlockItemNameStyled-gHxRKC efkAyp"><span type="heading.medium" class="Text-bbIbrg BlockItemNamestyled__TextStyled-gtDunx hhubVN">All header item types</span></div></span>
-  
-</div>
-<div class="edit no-show-on-drag  hover-pointer display-none flex-vertical-center mgl1">
-  
-  <svg style="fill: none; width: 24px; height: 24px;" class="Icon-Edit color-icon-secondary" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M16.9393398 11L13 7.06066017 4.06066017 16 8 19.9393398 16.9393398 11zM18 9.93933983L19.9393398 8 16 4.06066017 14.0606602 6 18 9.93933983zM6.18933983 20.25L3.75 17.8106602V20.25h2.43933983zM21.5303301 8.53033009L8.53033009 21.5303301C8.3896778 21.6709824 8.19891237 21.75 8 21.75H3c-.41421356 0-.75-.3357864-.75-.75v-5c0-.1989124.07901763-.3896778.21966991-.5303301L15.4696699 2.46966991c.2928932-.29289321.767767-.29289321 1.0606602 0l5 5c.2928932.29289322.2928932.76776696 0 1.06066018z" id="__1VG9JQP__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__1VG9JQP__a" fill="#333"></use></g></svg>
-</div>
-</div></div>
-      <div class="synced-with flex-vertical-center display-none">
-        <svg style="fill: none; width: 24px; height: 24px;" class="Icon-FigmaItem hg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M8 24c2.208 0 4-1.792 4-4v-4H8c-2.208 0-4 1.792-4 4s1.792 4 4 4z" fill="#0ACF83"></path><path d="M4 12c0-2.208 1.792-4 4-4h4v8H8c-2.208 0-4-1.792-4-4z" fill="#A259FF"></path><path d="M4 4c0-2.208 1.792-4 4-4h4v8H8C5.792 8 4 6.208 4 4z" fill="#F24E1E"></path><path d="M12 0h4c2.208 0 4 1.792 4 4s-1.792 4-4 4h-4V0z" fill="#FF7262"></path><path d="M20 12c0 2.208-1.792 4-4 4s-4-1.792-4-4 1.792-4 4-4 4 1.792 4 4z" fill="#1ABCFE"></path></g></svg>
-      </div>
-      <div class="asset-dl flex-vertical-center hover-pointer display-none">
-        <svg style="fill: none; width: 24px; height: 24px;" class="Icon-Download element-secondary-fill hg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M11.25 14.1893398V2c0-.41421356.3357864-.75.75-.75s.75.33578644.75.75v12.1893398l2.7196699-2.7196699c.2928932-.2928932.767767-.2928932 1.0606602 0 .2928932.2928932.2928932.767767 0 1.0606602l-4 4c-.2928932.2928932-.767767.2928932-1.0606602 0l-3.99999999-4c-.29289321-.2928932-.29289321-.767767 0-1.0606602.29289322-.2928932.76776696-.2928932 1.06066018 0L11.25 14.1893398zM2.25 17c0-.4142136.33578644-.75.75-.75s.75.3357864.75.75v3c0 .6903559.55964406 1.25 1.25 1.25h14c.6903559 0 1.25-.5596441 1.25-1.25v-3c0-.4142136.3357864-.75.75-.75s.75.3357864.75.75v3c0 1.5187831-1.2312169 2.75-2.75 2.75H5c-1.51878306 0-2.75-1.2312169-2.75-2.75v-3z" id="__gamjkzk__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__gamjkzk__a" fill="#333"></use></g></svg>
-      </div>
-    </div>
-    
-    <div class="description" style="max-width: 848px;"></div>
-    <div class="annotations" style="max-width: 848px;"></div>
-    <div class="notes display-none" style="max-width: 848px; display: block;"><div class="mihg6 mgt2">  <div class="notes-placeholder text-cursor display-none type_color-tertiary hover-pointer type_interface-small underline">
-    Add notes
-  </div>
-  <div class="notes text-cursor display-none
-      selectable type_interface-small"></div>
-</div></div>
-  </div>
-</div>
-</div></div></div>
-<div class="fakeContents display-none" contenteditable="true"></div>
+Collapsed Header-menu behaviorHeader elements are responsive to changing viewport size. As the viewport shrinks, Header-item-expanded components should be swapped with Header-item-condensed components, horizontal padding should shrink, and header elements may need to be collapsed into a Header-menu element.All header elements may be collapsed into the Header-menu component except any branding or page titles.When tapped or clicked, the Header-menu component opens a drawer containing all collapsed options. Guidance for this drawer layout and componentry is coming soon!
 
-</div></div><h3 class="zh-header" id="817def">Group header elements by functionality</h3><p>Though header contents vary widely across the Teladoc Health ecosystem, the functionality of header elements remains fairly consistent. To further increase consistency, header elements should be grouped based on functionality. The functional groups we support are as follows:</p><ul><li>Branding (and partner co-branding, as applicable)</li><li>Page title (as applicable to support legacy headers)</li><li>Navigation</li><li>Tools</li><li><span class="zh-comment-marker" comment-marker-id="11f2bb91e7">User</span></li></ul><div class="sketch-items normal-whitespace zhembed" contenteditable="false" id="view442" spellcheck="false" autocorrect="off"><div id="4848899" class="sketch-block-view full-width disable-selecting relative mgb10" contenteditable="false"><div class="content full-width-plus-4 nmgl2 nmgt2"><div class="flex flex-wrap sketch-collection ui-sortable"><div data-cy="sketch-item-view" class="relative sketch-item item-76526237"><div class="mg2 relative sketch-item--inner sketch-item--symbol flex-column-below-700">
-  <div class="drag absolute pos-top0 pos-left0" style="height: 343.984px;"><div class="drag-icon full-height flex-center display-none ui-sortable-handle"><div id="sortable" class="grab-pointer icon-fill wi3 h9 z2" style="margin-left: -7px;">
-  <svg style=";fill:none;" class="drag-item" width="14" height="43" viewBox="0 0 14 43" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M6.76649965 10.60823377l4 1.96890335C12.1339054 13.25020957 13 14.64185452 13 16.16593623V29.1161462c0 2.209139-1.790861 4-4 4-.55570137 0-1.10530643-.1157882-1.61377562-.3399825l-4-1.7636808C1.93591498 30.3730122 1 28.9374954 1 27.3524654V14.19703287c0-2.209139 1.790861-4 4-4 .61255094 0 1.21691908.14068315 1.76649965.4112009z" fill="#FFF"></path><g transform="translate(2 12)" fill="#D9D9D9"><ellipse cx="1.98768542" cy="2" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="5" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="11" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="17" rx="1.98768542" ry="2"></ellipse><ellipse cx="1.98768542" cy="8" rx="1.98768542" ry="2"></ellipse><ellipse cx="1.98768542" cy="14" rx="1.98768542" ry="2"></ellipse></g></g></svg>
-</div></div></div>
-  <div class="thumbnail"><button aria-label="Header functional groups" class="sketch-item--thumbnail flex-center overflow-hidden relative neutrals-dark-background" style="width: 848px; padding-top: 16px; padding-bottom: 16px;"><div class="select absolute z2 pos-top2 pos-left2 hover-pointer display-none">
-  <div class="unselected element-secondary-reversed-fill element-reversed-fill-hover display-none">
-    <svg style=";fill:none;" class="checkbox-Outline hg6 wg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M12 23c6.0751322 0 11-4.9248678 11-11 0-6.07513225-4.9248678-11-11-11C5.92486775 1 1 5.92486775 1 12c0 6.0751322 4.92486775 11 11 11zm0 1C5.372583 24 0 18.627417 0 12S5.372583 0 12 0s12 5.372583 12 12-5.372583 12-12 12z" id="__aDnt09L__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__aDnt09L__a" fill="#333"></use></g></svg>
-  </div>
-  <div class="selected display-none">
-    <svg style=";fill:none;" class="checkbox-Filled hg6 wg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M12 24C5.372583 24 0 18.627417 0 12S5.372583 0 12 0s12 5.372583 12 12-5.372583 12-12 12z" fill="#F63E7C"></path><path fill="#FFF" d="M10.5930976 16L18 9.1098294 16.8367334 8l-6.3198922 5.7348884-3.3516981-3.1230567L6 11.5854581z"></path></g></svg>
-  </div>
-</div>
+Visual treatment and scroll behaviorIn their default state, headers may be solid or transparent depending on product context. Similarly, headers may or may not have a Horizontal-rule visually dividing the header from the content below. Headers should be separated from content by a minimum of 32px in padding on large screens, and a minimum of 16px in padding on small screens. Headers should not have elevation. Headers may be sticky or scroll with content.On scroll, sticky headers should have a fill with some transparency, a Horizontal-rule dividing the header from the content scrolled behind.
 
-<div class="overlay full-height border-box z1 absolute pos-top0 pos-left0 full-width" style="display: none;">
-  <div class="full-width full-height border-box flex flex-center overlay-medium border border-color-10">
-    <div class="asset-thumbnail-inspect-button read-only">
-      <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
-        <path d="M10 13.33H3a1 1 0 01-1-1V3.67a1 1 0 011-1h10a1 1 0 011 1v5.66"></path>
-        <path d="M8.67 10.67a2.67 2.67 0 100-5.34 2.67 2.67 0 000 5.34zM14 13.33L10.67 10"></path>
-      </svg>
-      <span>Inspect</span>
-    </div>
-  </div>
+InteractivityIf using Header-item-condensed tools on devices that support hover, a tooltip label may be shown on hover to describe the header item. On tap/click, Header-items may reveal dropdown menus, modals, or drawers.
 
-  <div class="menu absolute pos-top2 pos-right2 
-      hover-pointer element-secondary-reversed-fill
-      element-reversed-fill-hover display-none">
-    <svg style=";fill:none;" class="Icon-More" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M6 10.25c.96649831 0 1.75.7835017 1.75 1.75S6.96649831 13.75 6 13.75 4.25 12.9664983 4.25 12s.78350169-1.75 1.75-1.75zm6 0c.9664983 0 1.75.7835017 1.75 1.75s-.7835017 1.75-1.75 1.75-1.75-.7835017-1.75-1.75.7835017-1.75 1.75-1.75zm6 0c.9664983 0 1.75.7835017 1.75 1.75s-.7835017 1.75-1.75 1.75-1.75-.7835017-1.75-1.75.7835017-1.75 1.75-1.75z" id="__2u62iOE__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__2u62iOE__a" fill="#333"></use></g></svg>
-  </div>
-</div>
+Brand assetsTeladoc Health brandsTeladoc Health brand logos should have a minimum width of 120 pixels.
 
+Co-branded experiencesWhen products are cobranded with Teladoc Health brands, the branding assets should be combined into one single asset to ensure both logos scale approriately across various viewports.The cobranding partner logo should be no larger than 45 pixels in height. The Teladoc Health brand logos should be separated from the cobranding partner logos by space only; do not use a horizontal rule to divide the logos.
 
-  
-    <div class="annotation-overlay absolute" style="width: 816px; height: 311.984px; display: none;"></div>
-    <img src="https://zeroheight-uploads.s3-accelerate.amazonaws.com/f6b148408ab1e57524356f?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA3AVNYHQK4QFFEFF5%2F20220907%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220907T210427Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=981997051a6e810f8635409085f9f23e38e4a78f44c4a2f9d5e7600e7d5c9719" alt="" class="image mxhg46 mxwg46" style="max-width: 816px; max-height: unset;">
-  
+Page titlesPage titles may be appropriate in headers, such as in native mobile subpages. However, page titles are generally discouraged in primary navigation headers.If a page title is required in a primary navigation header to support legacy use, the title should be shown in Body Medium text style in Primary color. The title should be on the same baseline as all other elements in the header. Page titles are not preferred in future web headers and member-facing web headers.
 
-
-</button></div>
-  <div class="sketch-item--text selectable">
-    <div class="flex-vertical-center mgt2 hg6 name-row" style="max-width: 848px; height: 24px;">
-      <div class="name flex-vertical-center type_heading-medium truncate flex-grow"><div class="relative truncate flex-grow flex-vertical-center mihg5"><!-- We need an empty href here, rather than a hash one. This is due to back button compatibility. -->
-<div draggable="false" class="text-container block mihg5 miwg2 flex-vertical-center flex-grow text-field-view--name
-selectable
-" '="">
-  
-    <span class="display-name truncate"><div data-cy="tooltip-wrapper" title="Header functional groups" class="Tooltipstyled__StyledTooltipWrapper-iKLMLN ccnBFh BlockItemNamestyled__BlockItemNameStyled-gHxRKC efkAyp"><span type="heading.medium" class="Text-bbIbrg BlockItemNamestyled__TextStyled-gtDunx hhubVN">Header functional groups</span></div></span>
-  
-</div>
-<div class="edit no-show-on-drag  hover-pointer display-none flex-vertical-center mgl1">
-  
-  <svg style="fill: none; width: 24px; height: 24px;" class="Icon-Edit color-icon-secondary" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M16.9393398 11L13 7.06066017 4.06066017 16 8 19.9393398 16.9393398 11zM18 9.93933983L19.9393398 8 16 4.06066017 14.0606602 6 18 9.93933983zM6.18933983 20.25L3.75 17.8106602V20.25h2.43933983zM21.5303301 8.53033009L8.53033009 21.5303301C8.3896778 21.6709824 8.19891237 21.75 8 21.75H3c-.41421356 0-.75-.3357864-.75-.75v-5c0-.1989124.07901763-.3896778.21966991-.5303301L15.4696699 2.46966991c.2928932-.29289321.767767-.29289321 1.0606602 0l5 5c.2928932.29289322.2928932.76776696 0 1.06066018z" id="__1VG9JQP__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__1VG9JQP__a" fill="#333"></use></g></svg>
-</div>
-</div></div>
-      <div class="synced-with flex-vertical-center display-none">
-        <svg style="fill: none; width: 24px; height: 24px;" class="Icon-FigmaItem hg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M8 24c2.208 0 4-1.792 4-4v-4H8c-2.208 0-4 1.792-4 4s1.792 4 4 4z" fill="#0ACF83"></path><path d="M4 12c0-2.208 1.792-4 4-4h4v8H8c-2.208 0-4-1.792-4-4z" fill="#A259FF"></path><path d="M4 4c0-2.208 1.792-4 4-4h4v8H8C5.792 8 4 6.208 4 4z" fill="#F24E1E"></path><path d="M12 0h4c2.208 0 4 1.792 4 4s-1.792 4-4 4h-4V0z" fill="#FF7262"></path><path d="M20 12c0 2.208-1.792 4-4 4s-4-1.792-4-4 1.792-4 4-4 4 1.792 4 4z" fill="#1ABCFE"></path></g></svg>
-      </div>
-      <div class="asset-dl flex-vertical-center hover-pointer display-none">
-        <svg style="fill: none; width: 24px; height: 24px;" class="Icon-Download element-secondary-fill hg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M11.25 14.1893398V2c0-.41421356.3357864-.75.75-.75s.75.33578644.75.75v12.1893398l2.7196699-2.7196699c.2928932-.2928932.767767-.2928932 1.0606602 0 .2928932.2928932.2928932.767767 0 1.0606602l-4 4c-.2928932.2928932-.767767.2928932-1.0606602 0l-3.99999999-4c-.29289321-.2928932-.29289321-.767767 0-1.0606602.29289322-.2928932.76776696-.2928932 1.06066018 0L11.25 14.1893398zM2.25 17c0-.4142136.33578644-.75.75-.75s.75.3357864.75.75v3c0 .6903559.55964406 1.25 1.25 1.25h14c.6903559 0 1.25-.5596441 1.25-1.25v-3c0-.4142136.3357864-.75.75-.75s.75.3357864.75.75v3c0 1.5187831-1.2312169 2.75-2.75 2.75H5c-1.51878306 0-2.75-1.2312169-2.75-2.75v-3z" id="__nsmbpov__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__nsmbpov__a" fill="#333"></use></g></svg>
-      </div>
-    </div>
-    
-    <div class="description" style="max-width: 848px;"></div>
-    <div class="annotations" style="max-width: 848px;"></div>
-    <div class="notes display-none" style="max-width: 848px; display: block;"><div class="mihg6 mgt2">  <div class="notes-placeholder text-cursor display-none type_color-tertiary hover-pointer type_interface-small underline">
-    Add notes
-  </div>
-  <div class="notes text-cursor display-none
-      selectable type_interface-small"></div>
-</div></div>
-  </div>
-</div>
-</div><div data-cy="sketch-item-view" class="relative sketch-item item-75075270"><div class="mg2 relative sketch-item--inner sketch-item--symbol flex-column-below-700">
-  <div class="drag absolute pos-top0 pos-left0" style="height: 415.531px;"><div class="drag-icon full-height flex-center display-none ui-sortable-handle"><div id="sortable" class="grab-pointer icon-fill wi3 h9 z2" style="margin-left: -7px;">
-  <svg style=";fill:none;" class="drag-item" width="14" height="43" viewBox="0 0 14 43" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M6.76649965 10.60823377l4 1.96890335C12.1339054 13.25020957 13 14.64185452 13 16.16593623V29.1161462c0 2.209139-1.790861 4-4 4-.55570137 0-1.10530643-.1157882-1.61377562-.3399825l-4-1.7636808C1.93591498 30.3730122 1 28.9374954 1 27.3524654V14.19703287c0-2.209139 1.790861-4 4-4 .61255094 0 1.21691908.14068315 1.76649965.4112009z" fill="#FFF"></path><g transform="translate(2 12)" fill="#D9D9D9"><ellipse cx="1.98768542" cy="2" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="5" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="11" rx="1.98768542" ry="2"></ellipse><ellipse cx="6.95689896" cy="17" rx="1.98768542" ry="2"></ellipse><ellipse cx="1.98768542" cy="8" rx="1.98768542" ry="2"></ellipse><ellipse cx="1.98768542" cy="14" rx="1.98768542" ry="2"></ellipse></g></g></svg>
-</div></div></div>
-  <div class="thumbnail"><button aria-label="Teladoc Health ecosystem headers with functional group mappings" class="sketch-item--thumbnail flex-center overflow-hidden relative neutrals-dark-background" style="width: 848px; padding-top: 16px; padding-bottom: 16px;"><div class="select absolute z2 pos-top2 pos-left2 hover-pointer display-none">
-  <div class="unselected element-secondary-reversed-fill element-reversed-fill-hover display-none">
-    <svg style=";fill:none;" class="checkbox-Outline hg6 wg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M12 23c6.0751322 0 11-4.9248678 11-11 0-6.07513225-4.9248678-11-11-11C5.92486775 1 1 5.92486775 1 12c0 6.0751322 4.92486775 11 11 11zm0 1C5.372583 24 0 18.627417 0 12S5.372583 0 12 0s12 5.372583 12 12-5.372583 12-12 12z" id="__aDnt09L__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__aDnt09L__a" fill="#333"></use></g></svg>
-  </div>
-  <div class="selected display-none">
-    <svg style=";fill:none;" class="checkbox-Filled hg6 wg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M12 24C5.372583 24 0 18.627417 0 12S5.372583 0 12 0s12 5.372583 12 12-5.372583 12-12 12z" fill="#F63E7C"></path><path fill="#FFF" d="M10.5930976 16L18 9.1098294 16.8367334 8l-6.3198922 5.7348884-3.3516981-3.1230567L6 11.5854581z"></path></g></svg>
-  </div>
-</div>
-
-<div class="overlay full-height border-box z1 absolute pos-top0 pos-left0 full-width" style="display: none;">
-  <div class="full-width full-height border-box flex flex-center overlay-medium border border-color-10">
-    <div class="asset-thumbnail-inspect-button read-only">
-      <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
-        <path d="M10 13.33H3a1 1 0 01-1-1V3.67a1 1 0 011-1h10a1 1 0 011 1v5.66"></path>
-        <path d="M8.67 10.67a2.67 2.67 0 100-5.34 2.67 2.67 0 000 5.34zM14 13.33L10.67 10"></path>
-      </svg>
-      <span>Inspect</span>
-    </div>
-  </div>
-
-  <div class="menu absolute pos-top2 pos-right2 
-      hover-pointer element-secondary-reversed-fill
-      element-reversed-fill-hover display-none">
-    <svg style=";fill:none;" class="Icon-More" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M6 10.25c.96649831 0 1.75.7835017 1.75 1.75S6.96649831 13.75 6 13.75 4.25 12.9664983 4.25 12s.78350169-1.75 1.75-1.75zm6 0c.9664983 0 1.75.7835017 1.75 1.75s-.7835017 1.75-1.75 1.75-1.75-.7835017-1.75-1.75.7835017-1.75 1.75-1.75zm6 0c.9664983 0 1.75.7835017 1.75 1.75s-.7835017 1.75-1.75 1.75-1.75-.7835017-1.75-1.75.7835017-1.75 1.75-1.75z" id="__2u62iOE__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__2u62iOE__a" fill="#333"></use></g></svg>
-  </div>
-</div>
-
-
-  
-    <div class="annotation-overlay absolute" style="width: 816px; height: 383.531px; display: none;"></div>
-    <img src="https://zeroheight-uploads.s3-accelerate.amazonaws.com/57d8ce6b564cef7cea04ff?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA3AVNYHQK4QFFEFF5%2F20220907%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220907T210427Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a5740a4a8b4f6cbc2f07245f68dde7733bace687fd1ac05977c46fd9143ec223" alt="" class="image mxhg46 mxwg46" style="max-width: 816px; max-height: unset;">
-  
-
-
-</button></div>
-  <div class="sketch-item--text selectable">
-    <div class="flex-vertical-center mgt2 hg6 name-row" style="max-width: 848px; height: 24px;">
-      <div class="name flex-vertical-center type_heading-medium truncate flex-grow"><div class="relative truncate flex-grow flex-vertical-center mihg5"><!-- We need an empty href here, rather than a hash one. This is due to back button compatibility. -->
-<div draggable="false" class="text-container block mihg5 miwg2 flex-vertical-center flex-grow text-field-view--name
-selectable
-" '="">
-  
-    <span class="display-name truncate"><div data-cy="tooltip-wrapper" title="Teladoc Health ecosystem headers with functional group mappings" class="Tooltipstyled__StyledTooltipWrapper-iKLMLN ccnBFh BlockItemNamestyled__BlockItemNameStyled-gHxRKC efkAyp"><span type="heading.medium" class="Text-bbIbrg BlockItemNamestyled__TextStyled-gtDunx hhubVN">Teladoc Health ecosystem headers with functional group mappings</span></div></span>
-  
-</div>
-<div class="edit no-show-on-drag  hover-pointer display-none flex-vertical-center mgl1">
-  
-  <svg style="fill: none; width: 24px; height: 24px;" class="Icon-Edit color-icon-secondary" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M16.9393398 11L13 7.06066017 4.06066017 16 8 19.9393398 16.9393398 11zM18 9.93933983L19.9393398 8 16 4.06066017 14.0606602 6 18 9.93933983zM6.18933983 20.25L3.75 17.8106602V20.25h2.43933983zM21.5303301 8.53033009L8.53033009 21.5303301C8.3896778 21.6709824 8.19891237 21.75 8 21.75H3c-.41421356 0-.75-.3357864-.75-.75v-5c0-.1989124.07901763-.3896778.21966991-.5303301L15.4696699 2.46966991c.2928932-.29289321.767767-.29289321 1.0606602 0l5 5c.2928932.29289322.2928932.76776696 0 1.06066018z" id="__1VG9JQP__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__1VG9JQP__a" fill="#333"></use></g></svg>
-</div>
-</div></div>
-      <div class="synced-with flex-vertical-center display-none">
-        <svg style="fill: none; width: 24px; height: 24px;" class="Icon-FigmaItem hg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M8 24c2.208 0 4-1.792 4-4v-4H8c-2.208 0-4 1.792-4 4s1.792 4 4 4z" fill="#0ACF83"></path><path d="M4 12c0-2.208 1.792-4 4-4h4v8H8c-2.208 0-4-1.792-4-4z" fill="#A259FF"></path><path d="M4 4c0-2.208 1.792-4 4-4h4v8H8C5.792 8 4 6.208 4 4z" fill="#F24E1E"></path><path d="M12 0h4c2.208 0 4 1.792 4 4s-1.792 4-4 4h-4V0z" fill="#FF7262"></path><path d="M20 12c0 2.208-1.792 4-4 4s-4-1.792-4-4 1.792-4 4-4 4 1.792 4 4z" fill="#1ABCFE"></path></g></svg>
-      </div>
-      <div class="asset-dl flex-vertical-center hover-pointer display-none">
-        <svg style="fill: none; width: 24px; height: 24px;" class="Icon-Download element-secondary-fill hg6" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M11.25 14.1893398V2c0-.41421356.3357864-.75.75-.75s.75.33578644.75.75v12.1893398l2.7196699-2.7196699c.2928932-.2928932.767767-.2928932 1.0606602 0 .2928932.2928932.2928932.767767 0 1.0606602l-4 4c-.2928932.2928932-.767767.2928932-1.0606602 0l-3.99999999-4c-.29289321-.2928932-.29289321-.767767 0-1.0606602.29289322-.2928932.76776696-.2928932 1.06066018 0L11.25 14.1893398zM2.25 17c0-.4142136.33578644-.75.75-.75s.75.3357864.75.75v3c0 .6903559.55964406 1.25 1.25 1.25h14c.6903559 0 1.25-.5596441 1.25-1.25v-3c0-.4142136.3357864-.75.75-.75s.75.3357864.75.75v3c0 1.5187831-1.2312169 2.75-2.75 2.75H5c-1.51878306 0-2.75-1.2312169-2.75-2.75v-3z" id="__xdzbgsz__a"></path></defs><g fill="none" fill-rule="evenodd"><use xlink:href="#__xdzbgsz__a" fill="#333"></use></g></svg>
-      </div>
-    </div>
-    
-    <div class="description" style="max-width: 848px;"></div>
-    <div class="annotations" style="max-width: 848px;"></div>
-    <div class="notes display-none" style="max-width: 848px; display: block;"><div class="mihg6 mgt2">  <div class="notes-placeholder text-cursor display-none type_color-tertiary hover-pointer type_interface-small underline">
-    Add notes
-  </div>
-  <div class="notes text-cursor display-none
-      selectable type_interface-small"></div>
-</div></div>
-  </div>
-</div>
-</div></div></div>
-<div class="fakeContents display-none" contenteditable="true"></div>
-
-</div></div><p><br></p><h3 class="zh-header" id="61e191">Spacing and responsive behavior</h3><p>On large screens, headers should have a minimum height of 72 pixels and should have 24 pixels of left and right padding.</p><p>On small screens, headers should have a minimum height of 64 pixels and should have 16 pixels of left and right padding.</p><p><br></p><div class="sketch-items normal-whitespace zhembed" contenteditable="false" id="view455" spellcheck="false" autocorrect="off"><div id="4848900" class="sketch-block-view full-width disable-selecting relative mgb10" contenteditable="false"><div class="content full-width-plus-4 nmgl2 nmgt2"><div class="full-height"><div class="component full-height"><div class="min-full-height full-height"><div color="#c7c7c7" class="Spinner-dBrEej hvimAU"></div></div></div></div></div>
-<div class="fakeContents display-none" contenteditable="true"></div>
-
-</div></div><h4 class="zh-header" id="063f82">Collapsed Header-menu behavior</h4><p>Header elements are responsive to changing viewport size. As the viewport shrinks, Header-item-expanded components should be swapped with Header-item-condensed components, horizontal padding should shrink, and header elements may need to be collapsed into a Header-menu element.</p><p>All header elements may be collapsed into the Header-menu component except any branding or page titles.</p><p>When tapped or clicked, the Header-menu component opens a drawer containing all collapsed options. Guidance for this drawer layout and componentry is coming soon!</p><div class="sketch-items normal-whitespace zhembed" contenteditable="false" id="view468" spellcheck="false" autocorrect="off"><div id="4848901" class="sketch-block-view full-width disable-selecting relative mgb10" contenteditable="false"><div class="content full-width-plus-4 nmgl2 nmgt2"><div class="full-height"><div class="component full-height"><div class="min-full-height full-height"><div color="#c7c7c7" class="Spinner-dBrEej hvimAU"></div></div></div></div></div>
-<div class="fakeContents display-none" contenteditable="true"></div>
-
-</div></div><p><br></p><h3 class="zh-header" id="06e81d">Visual treatment and scroll behavior</h3><p>In their default state, headers may be solid or transparent depending on product context. Similarly, headers may or may not have a <code><strong>Horizontal-rule</strong></code> visually dividing the header from the content below. Headers should be separated from content by a minimum of 32px in padding on large screens, and a minimum of 16px in padding on small screens. Headers should not have elevation. </p><p>Headers may be sticky or scroll with content.</p><p><span class="zh-comment-marker" comment-marker-id="6999ae95e3">On scroll, sticky headers should have a fill with some transparency, a </span><code><a href="https://zeroheight.com/8169d2638/v/latest/p/43f77b-horizontal-rule/b/73b4e5"><strong><span class="zh-comment-marker" comment-marker-id="6999ae95e3">Horizontal-rule</span></strong></a></code><span class="zh-comment-marker" comment-marker-id="6999ae95e3"> dividing the header from the content scrolled behind.</span></p><div class="sketch-items normal-whitespace zhembed" contenteditable="false" id="view481" spellcheck="false" autocorrect="off"><div id="4848902" class="sketch-block-view full-width disable-selecting relative mgb10" contenteditable="false"><div class="content full-width-plus-4 nmgl2 nmgt2"><div class="full-height"><div class="component full-height"><div class="min-full-height full-height"><div color="#c7c7c7" class="Spinner-dBrEej hvimAU"></div></div></div></div></div>
-<div class="fakeContents display-none" contenteditable="true"></div>
-
-</div></div><h3 class="zh-header" id="82d736">Interactivity</h3><p>If using Header-item-condensed tools on devices that support hover, a tooltip label may be shown on hover to describe the header item. </p><p>On tap/click, Header-items may reveal dropdown menus, modals, or drawers.</p><div class="sketch-items normal-whitespace zhembed" contenteditable="false" id="view494" spellcheck="false" autocorrect="off"><div id="4848903" class="sketch-block-view full-width disable-selecting relative mgb10" contenteditable="false"><div class="content full-width-plus-4 nmgl2 nmgt2"><div class="full-height"><div class="component full-height"><div class="min-full-height full-height"><div color="#c7c7c7" class="Spinner-dBrEej hvimAU"></div></div></div></div></div>
-<div class="fakeContents display-none" contenteditable="true"></div>
-
-</div></div><p><br></p><h3 class="zh-header" id="404ac1">Brand assets</h3><h4 class="zh-header" id="03cd7f">Teladoc Health brands</h4><p><span class="zh-comment-marker" comment-marker-id="28a7399031">Teladoc Health brand logos should have a minimum width of 120 pixels.</span></p><div class="sketch-items normal-whitespace zhembed" contenteditable="false" id="view507" spellcheck="false" autocorrect="off"><div id="4848904" class="sketch-block-view full-width disable-selecting relative mgb10" contenteditable="false"><div class="content full-width-plus-4 nmgl2 nmgt2"><div class="full-height"><div class="component full-height"><div class="min-full-height full-height"><div color="#c7c7c7" class="Spinner-dBrEej hvimAU"></div></div></div></div></div>
-<div class="fakeContents display-none" contenteditable="true"></div>
-
-</div></div><h4 class="zh-header" id="09b932">Co-branded experiences</h4><p>When products are cobranded with Teladoc Health brands, the branding assets should be combined into one single asset to ensure both logos scale approriately across various viewports.</p><p>The cobranding partner logo should be no larger than 45 pixels in height. The Teladoc Health brand logos should be separated from the cobranding partner logos by space only; do not use a horizontal rule to divide the logos.</p><p><br></p><div class="sketch-items normal-whitespace zhembed" contenteditable="false" id="view520" spellcheck="false" autocorrect="off"><div id="4848905" class="sketch-block-view full-width disable-selecting relative mgb10" contenteditable="false"><div class="content full-width-plus-4 nmgl2 nmgt2"><div class="full-height"><div class="component full-height"><div class="min-full-height full-height"><div color="#c7c7c7" class="Spinner-dBrEej hvimAU"></div></div></div></div></div>
-<div class="fakeContents display-none" contenteditable="true"></div>
-
-</div></div><p><br></p><h3 class="zh-header" id="99a253">Page titles</h3><p>Page titles may be appropriate in headers, such as in native mobile subpages. However, page titles are generally discouraged in primary navigation headers.</p><p>If a page title is required in a primary navigation header to support legacy use, the title should be shown in Body Medium text style in Primary color. The title should be on the same baseline as all other elements in the header. Page titles are not preferred in future web headers and member-facing web headers.</p><div class="sketch-items normal-whitespace zhembed" contenteditable="false" id="view533" spellcheck="false" autocorrect="off"><div id="4848906" class="sketch-block-view full-width disable-selecting relative mgb10" contenteditable="false"><div class="content full-width-plus-4 nmgl2 nmgt2"><div class="full-height"><div class="component full-height"><div class="min-full-height full-height"><div color="#c7c7c7" class="Spinner-dBrEej hvimAU"></div></div></div></div></div>
-<div class="fakeContents display-none" contenteditable="true"></div>
-
-</div></div><h2 class="zh-header" id="19cb30">Content guidelines</h2><ul><li>Use sentence case for page titles, navigation tabs, and header item labels</li></ul></div>
+Content guidelinesUse sentence case for page titles, navigation tabs, and header item labels

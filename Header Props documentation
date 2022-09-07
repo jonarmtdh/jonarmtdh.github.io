@@ -7,13 +7,13 @@ This header introduces 3 main size variants (SM, M, L) with toggles for:
 
 ## Subcomponents
 Header/Subcomponents/
-Left side:
+# Left side:
 * Logo (for 4 TDOC brands - Current, legacy, legacy LVGO, legacy MyStrength)
 * Cobrand placeholder
 * Page or site name placeholder
 * Tab-item
 
-Right side:
+# Right side:
 *  Header-item
 * * Help
 * * Messages

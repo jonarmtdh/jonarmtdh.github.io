@@ -22,20 +22,31 @@ This header introduces 3 main size variants (SM, M, L) with toggles for:
     -  Hamburger menu (for small & medium sizes)
 
 ## Changelog
-* Dramatically reduced the amount of variants in this component
-### Introduced
+Dramatically reduced the amount of variants in this component. Followed guidance from existing header work using auto-layout to correctly place and space subcomponents.
+
+### Caveats
+* Badge used is the propped version and this is smaller than the existing Pulse badge
+* It is possible to turn on the dot version of the badge when there is only a label visible for Header-item; do not do this!
+* Use the layer palette to discover additional editable elements:
+    -   If you see a finger pointing, click on that layer and you should see additional formating options in the inspector palette
+    –   Look for a pencil icon in the layer palette for any editable text  
+
+### New!!
+#### Subcomponents
 * New Menu item subcomponent (multiple states; Editable label)
+* Propped brand logo selector (includes current TDH, Legacy TD, Legacy LVGO, Legacy MYST)
+* Boolean and Label editable Tab-item 
 * New cobranding subcomponent
-* Propped Primary brand logo selector
 * Header-item subcomponent (propped badge; propped icon, with boolean and propped Label)
-* Propped Tab 
 * Propped Header-profile subcomponent
     -  Avatar (propped, boolean)
     -  Icon button (propped, boolean)
     -  User Name (propped, boolean)
 * Header-sign-in subcomponent (boolean)
-* Boolean icons (right side of header)
-* Boolean for signed in/signed out
+* New Header-item (right side of header) with Boolean icon, label and badging; propped icon, propped label; disabled state
+* Boolean for signed in/signed out 
+ 
+### Quality of Life improvements
 * Introduced hint icons in front of the layer name in actionable layers:
     -  A pointer icon prior to the layer name to indicate where a user can select that layer to further edit a subcomponent
     -  A pencil icon prior to the layer name for editable text layers
@@ -43,4 +54,5 @@ This header introduces 3 main size variants (SM, M, L) with toggles for:
     -  Small - 375
     -  Medium - 768
     -  Large - 1200
-* Followed guidance from existing header work using auto-layout to space subcomponents
+
+

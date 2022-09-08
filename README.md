@@ -9,7 +9,7 @@ Jon's dedicated TD space on GitHub.
 Existing Header documentation as a [Markdown](https://github.com/jonarmtdh/jonarmtdh.github.io/blob/structure/Header%20-%20Existing%20from%20ZH.md) file
 
 
-## Webfont icon exploration
+### Webfont icon exploration
 Here is a link to the icon font test I did in 2020-21:
 
 <a href="https://jonarmtdh.github.io/TD-Icon-font/demo.html">TD Core Web Font</a>

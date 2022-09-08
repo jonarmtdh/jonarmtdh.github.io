@@ -6,7 +6,7 @@ Jon's dedicated TD space on GitHub.
 <a href="https://github.com/jonarmtdh/jonarmtdh.github.io/blob/structure/ZH%20Documentation%20template.md">Markdown Pulse Documentation template</a> (needs headings fixed) from a zeroheight copy/paste 
 
 ### WIP 
-Existing Header documentation as a [Markdown|https://github.com/jonarmtdh/jonarmtdh.github.io/blob/structure/Header%20-%20Existing%20from%20ZH.md] file
+Existing Header documentation as a Markdown|(https://github.com/jonarmtdh/jonarmtdh.github.io/blob/structure/Header%20-%20Existing%20from%20ZH.md) file
 
 
 ## Webfont icon exploration

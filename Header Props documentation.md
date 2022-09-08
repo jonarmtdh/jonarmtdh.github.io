@@ -29,7 +29,7 @@ Dramatically reduced the amount of variants in this component. Followed guidance
 * It is possible to turn on the dot version of the badge when there is only a label visible for Header-item; do not do this!
 * Use the layer palette to discover additional editable elements:
     -   If you see a finger pointing, click on that layer and you should see additional formating options in the inspector palette
-    –   Look for a pencil icon in the layer palette for any editable text  
+    -   Look for a pencil icon in the layer palette for any editable text  
 
 ### New!!
 #### Subcomponents

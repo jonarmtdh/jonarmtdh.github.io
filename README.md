@@ -10,7 +10,7 @@ Existing Header documentation as a [Markdown](https://github.com/jonarmtdh/jonar
 
 
 ### Webfont icon exploration
-Here is a link to the icon font test I did in 2020-21:
+Here is a link to the icon font test I did in 2020-21 using a subset of Nucleo icons:
 
 <a href="https://jonarmtdh.github.io/TD-Icon-font/demo.html">TD Core Web Font</a>
 

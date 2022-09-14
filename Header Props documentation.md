@@ -1,6 +1,7 @@
 ##### Jon's scratchpad:
 
-# Design
+# Header (properties version)
+#### Usage tab
 
 This is a placeholder image to see if we can use github as a way to do documentation.
 ![placeholder image to test github and local images](images/placeholder-modal.png "Darkmode Modal placeholder")

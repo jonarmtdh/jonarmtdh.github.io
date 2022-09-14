@@ -2,6 +2,7 @@
 
 # Design
 
+This is a placeholder image to see if we can use github as a way to do documentation.
 ![placeholder image to test github and local images](images/placeholder-modal.png "Darkmode Modal placeholder")
 
 This header introduces 3 main size variants (SM, M, L) with toggles for:

@@ -2,7 +2,7 @@
 
 # Design
 
-![placeholder image to test github and local images](images/Dark mode Modal with Primary 200 as Theme Primary.png "Darkmode Modal placeholder")
+![placeholder image to test github and local images](images/placeholder-modal.png "Darkmode Modal placeholder")
 
 This header introduces 3 main size variants (SM, M, L) with toggles for:
 * Expanded/Condensed (New header item subcomponent)

@@ -2,6 +2,8 @@
 
 # Design
 
+![alt text](images/Isolated.png "Title")
+
 This header introduces 3 main size variants (SM, M, L) with toggles for:
 * Expanded/Condensed (New header item subcomponent)
 * Signed in/out

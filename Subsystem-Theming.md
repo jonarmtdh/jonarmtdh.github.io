@@ -88,15 +88,23 @@ In the new style library, you can now go into the library and make changes to co
 * change the names of styles
 
 ✅ Do: ✅
-edit the primary and secondary color styles
-edit the font family styles if needed
-Technically, you could edit all the colors, but for white label theming, don't change anything but Primary & Secondary colors and font family.
-Color: Primary and Secondary color ramps
+* edit the primary and secondary color styles
+* edit the font family styles if needed
+
+> Technically, you could edit all the colors, but for white label theming, don't change anything but Primary & Secondary colors and font family.
+
+#### Color: Primary and Secondary color ramps
 The 50-900 color ramps for the colors in Pulse were developed carefully with an eye toward accessibility and ease of reading as well as a cohesive visual language. Clients requesting white labelling may not have as many colors or shade/tint variants as pulse does. That's fine. Client colors might have differing hue values that don't quite match Pulse's scale. This is not a huge concern as long as there is a Primary color and some suggestion of a light and dark variant for that Primary color. 
+
 It is up to the designer to use the client primary color and change Primary/800 to the client primary color, the dark to Primary/900 and the lightest to Primary/050.
-Example client provided color palette
+
+#### Example client provided color palette
 This was from a client linked Figma file:
+![Image from Ambetter's design system](images/211028-example client palette.png "Ambetter design system colors")
+
+
 TELADOC WIKI Home > White labeling using Figma's library swap feature > 211028-example client palette.png
+
 We can see their primary color, P-600 in their style guide. There are two shades, P-800 and P-900 as well as two tints, P-200 and P-050. This will be relatively easy to map thanks to a clear client use of design tokens on their end. Note that their use of gray didn't extend as a true secondary color, but they used it as a neutral set which Pulse already has. The neutrals are something we shouldn't change, as the colors chosen for Pulse were reviewed by an accessibility partner and applied to help make Pulse components WCAG contrast compliant.
 The client P-100 color was closer to our Primary/300 and as the parts of the site that this client would be using doesn't really use Pulse's Primary/300, I built the ramp of 050 to 900 using their supplied colors as starting points and generated a Primary/100 that fit the supplied colors and mapped more appropriately to the same color feel as Pulse.
 

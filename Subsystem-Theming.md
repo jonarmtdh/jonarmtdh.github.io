@@ -100,25 +100,27 @@ It is up to the designer to use the client primary color and change Primary/800 
 
 #### Example client provided color palette
 This was from a client linked Figma file:
+
 ![Image from Ambetter's design system](images/211028-example-client-palette.png "Ambetter design system colors")
 
-
-TELADOC WIKI Home > White labeling using Figma's library swap feature > 211028-example client palette.png
-
 We can see their primary color, P-600 in their style guide. There are two shades, P-800 and P-900 as well as two tints, P-200 and P-050. This will be relatively easy to map thanks to a clear client use of design tokens on their end. Note that their use of gray didn't extend as a true secondary color, but they used it as a neutral set which Pulse already has. The neutrals are something we shouldn't change, as the colors chosen for Pulse were reviewed by an accessibility partner and applied to help make Pulse components WCAG contrast compliant.
+
 The client P-100 color was closer to our Primary/300 and as the parts of the site that this client would be using doesn't really use Pulse's Primary/300, I built the ramp of 050 to 900 using their supplied colors as starting points and generated a Primary/100 that fit the supplied colors and mapped more appropriately to the same color feel as Pulse.
 
 Most cobranded experiences, as of this writing, will only use a subset of color tokens from Pulse.
 
-Pulse was created to be helpful to designers and developers solving problems, but for white label work, we generally don't need all the tint/shade variants from Pulse, just a handful. In the example above, the client brand didn't have any secondary colors, so I mapped their four primary colors to secondary, making their action color (buttons, links, hover states)  part of the Secondary color ramp.
+>Pulse was created to be helpful to designers and developers solving problems, but for white label work, we generally don't need all the tint/shade variants from Pulse, just a handful. In the example above, the client brand didn't have any secondary colors, so I mapped their four primary colors to secondary, making their action color (buttons, links, hover states)  part of the Secondary color ramp.
 
-Example: External client, AVA (Ambetter) colors mapped applied to Pulse design tokens:
-TELADOC WIKI Home > White labeling using Figma's library swap feature > 211105-primary and secondary example.png
+#### Example-—External client, AVA (Ambetter) colors mapped applied to Pulse design tokens:
+![Figma Screenshot](/images/211105-primary-and-secondary-example.png)
+
 Note that I moved the client primary to Secondary/800 and the next darker color to Secondary/900. Pulse uses Secondary/800 as its action color (buttons, links, etc.) I also used the same client colors for Secondary/050 and Secondary/100 as I did for Primary/050 & Primary/100. 
+
 In your case, if there is a secondary color or color variants, you would focus on mapping the appropriate client brand secondary colors to Secondary/800 for the  root client secondary color, a darker variant to Secondary/900 and the lightest variants to Secondary/050 and Secondary/100.
+
 When changing out the colors, there is a very specific set of steps that needs to be followed. 
 
-Making the tokens
+#### Making the tokens
 Make sure that your color palette view is set to list view:
 TELADOC WIKI Home > White labeling using Figma's library swap feature > 211028-colorstyles-sliders.png
 
@@ -127,14 +129,18 @@ The colors shown are a set that I already edited, so you might see the default P
 Perform this step for every color you need to edit in the new style library. Once complete, we need to run a plugin called Semantic Color Sync. This is where these new colors will get correctly mapped. This mapping is necessary in order for the new library to successfully apply these new styles to your existing work with Pulse components.
 
 Run the plugin: Semantic Color Sync
-TELADOC WIKI Home > White labeling using Figma's library swap feature > 211028-semantic color sync.png
+![Figma Screenshot](/images/211028-semantic-color-sync.png)
+
 As of this writing, the plugin will pop up a window:
 Before proceeding, you need to replace the ".p" from ".palette/" and replace with a capital "P" so it reads "Palette/"
-TELADOC WIKI Home > White labeling using Figma's library swap feature > 211028-popup-semantic color.png
- TELADOC WIKI Home > White labeling using Figma's library swap feature > 211028-semantic-pop-correct.png
+![Figma screenshot](/images/211028-popup-semantic-color.png)
+
+![Figma screenshot](/images/211028-semantic-pop-correct.png)
+
 Click the "Update Semantic Colors" button. 
 
-Step 7: Visually check  the token mappings
+## Step 7: Visually check  the token mappings
+
 A great deal of very very very very painstaking work went into this part of Pulse, which most people will never see. It's the Component color maps page in the style library. This is the magic that creates the tokens for the JSON file. It's very nerdy and hidden from public view so that people can't break it. This is all we will say at this time. Do not break it.
 Look at the Component color maps page to verify that your new colors are reflected in the style library:
 TELADOC WIKI Home > White labeling using Figma's library swap feature > 211028-component color maps.png

@@ -100,7 +100,7 @@ It is up to the designer to use the client primary color and change Primary/800 
 
 #### Example client provided color palette
 This was from a client linked Figma file:
-![Image from Ambetter's design system](images/211028-example client palette.png "Ambetter design system colors")
+![Image from Ambetter's design system](images/211028-example-client-palette.png "Ambetter design system colors")
 
 
 TELADOC WIKI Home > White labeling using Figma's library swap feature > 211028-example client palette.png

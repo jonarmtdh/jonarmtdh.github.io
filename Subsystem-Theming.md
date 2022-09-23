@@ -204,8 +204,6 @@ Once you have selected the theme, Figma will show you a list of styles in the ex
 Once you are certain that everything matches with your intended changes, click the "Swap Library" button. The process can very depending on how large your document is, how many styled elements are in it as well as how many pages & frames.
 You may see a progress box the bottom-middle of the Figma canvas showing the count of items that will be updated and how many have already been updated:
 
-TELADOC WIKI Home > White labeling using Figma's library swap feature > 211101-figma progress.png
-
 ![Figma progress screenshot](/images/211101-figma-progress.png)
 
 It will finish and you should see your working file transformed by the new styles from your new style library.

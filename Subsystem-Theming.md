@@ -21,7 +21,7 @@ You are part of Core UX and have editor access to Pulse libraries
 You will not rename any of the colors, styles or components in the Pulse Core Style library; this cannot be stressed enough: DO NOT RENAME ANY STYLES
 
 ### Plugins required
-Semantic Color Sync
+`Semantic Color Sync`
 
 ## Step 1: Ensure you have edit privileges
 Wherever you will be working on the documents that will be themed differently, make sure you have edit access to the appropriate project. You need to create a folder inside of that project. If a client or project already has a folder, make sure you have edit access to that folder. Will will move your new library into this folder. 
@@ -31,52 +31,52 @@ Use ClientName Theme Style Library. If we were working on a client called CVS, w
 
 ## Step 2: Duplicate the Pulse: Core Styles library
 Locate the Select the Pulse Style Library, right click and select duplicate:
-
-`TK image`
+![Figma screenshot](/images/211028-full-screen-duplicate.png)
 
 Figma will create a new style library that has a (Copy) at the end of the title:
 
-`TK image`
+![Figma screenshot](/images/211028-duplicated.png)
 
 This is the library we will move to our project from Step 1
 
 ## Step 3: Move the duplicate Pulse style library 
 Simply drag the file to the project in the left hand project navigation rail in Figma:
 
-`TK image`
+![Figma screenshot](/images/211028-left-rail.png)
 
 Your left rail will look different, this is just an example for reference.
 
 ## Step 4: Rename the new style library 
 Right click on the library file and select "Rename":
 
-`TK Image`
+![Figma screenshot](/images/211028-pulse-style-rename.png)
 
 I've renamed the duplicated library to "Pulse: Neutral".
 You should also open the file and edit the Cover page so that it can't be confused with the actual Pulse: Core Styles style library:
 
-`TK Image`
+![Figma screenshot](/images/211028-renamed-style-library.png)
 
 For the purposes of this tutorial, I have called the duplicated style library "Pulse Neutral" and I updated the cover page with a gray background and changed the title text. I also added my name under the design subheading so that it's clear to others who they need to contact if there are any questions or issues.
 
 Save to version history (File > Save to Version History):
 
-`TK Image`
+![Figma screenshot](/images/211028-save-to-version-history.png)
 
 When Figma pops up the version history save modal, type "New library start" or something that indicates a human is working on this file and it is the beginning of that work.
 
 ## Step 5: Make a copy of your work file 
 We need to test our work before we apply the new library, so I suggest that you duplicate your work file(s) and move them to the project from Step 1:
 
-`TK Image`
+![Figma screenshot](/images/211028-working-file-dupe.png)
 
 Move by dragging the duplicated file:
 
-`TK image`
+![Figma screenshot](/images/211028-moving.png)
 
 Renamed:
 
-`TK image`
+![Figma screenshot](/images/211028-renamed.png)
+
 
 ## Step 6: Open the new style library and edit
 

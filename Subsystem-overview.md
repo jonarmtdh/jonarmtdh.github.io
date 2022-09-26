@@ -7,15 +7,15 @@ Hero image
 In order to talk about subsytems, we need to be able to correctly assess where a product or feature are in the adoption lifecycle. 
 There are generally 5 publicly facing adoption levels of Pulse that can involve subsystem usage.
 
-1. Pulse Toe Dipper: product or feature is using Effra as the primary font for the screens;
-2. Pulse Starter: product or feature is beginning to use design tokens; UI Light theme primary/secondary/neutrals
-3. Pulse Adjacent: Tokens inform product design; coding visual designs into production (hard coded or mix/match actual CSS tokens)
-4. Pulse Legacy: Pulse adopted! This is likely going to be where most products/features live in the Pulse ecosystem; Pulse will continue to grow and evolve, but most products won't be using newer versions and the adoption may be a version or two behind the latest version
-5. Pulse Latest: The most current publicly shipping version of Pulse; mostly used for evolving Pulse coded products to include the latest features, themes, componentry; Design will be the first adopters for Latest
+1. **Pulse Toe Dipper**: product or feature is using Effra as the primary font for the screens;
+2. **Pulse Starter**: product or feature is beginning to use design tokens; UI Light theme primary/secondary/neutrals
+3. **Pulse Adjacent**: Tokens inform product design; coding visual designs into production (hard coded or mix/match actual CSS tokens)
+4. **Pulse Legacy**: Pulse adopted! This is likely going to be where most products/features live in the Pulse ecosystem; Pulse will continue to grow and evolve, but most products won't be using newer versions and the adoption may be a version or two behind the latest version
+5. **Pulse Latest**: The most current publicly shipping version of Pulse; mostly used for evolving Pulse coded products to include the latest features, themes, componentry; Design will be the first adopters for Latest
 
-Pulse Alpha: An offiical sandbox and test for proof of concepts and next generation approaches. This is not something that is supported for use in production, but evaluating what may make it into the Latest branch.
+**Pulse Alpha**: An offiical sandbox and test for proof of concepts and next generation approaches. This is not something that is supported for use in production, but evaluating what may make it into the Latest branch.
 
-As of this writing, the only complete version in product is for Livongo.com. It is using a legacy version of Pulse 1.*. The sales instance base site is Pulse Toe Dipper as it uses Effra:
+As of this writing, the only complete version in product is for Livongo.com. It is using a legacy version of Pulse 1.*. The sales instance base site is Pulse Toe Dipper as it uses Effra and legacy brand colors (but does not refer to the colors or font-family in a tokenized way):
 
 ![Sales demo example](/images/220926-sales-instance-rav-mh.png)
 

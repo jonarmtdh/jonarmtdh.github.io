@@ -4,7 +4,7 @@
 #### Usage tab
 
 ## Overview
-Hero image
+<!-- Hero image -->
 
 In order to talk about subsytems, we need to be able to correctly assess where a product or feature are in the adoption lifecycle. 
 There are generally 5 publicly facing adoption levels of Pulse that can involve subsystem usage.
@@ -38,6 +38,8 @@ Matching the adoption pattern, subsystems start with the basic, atomic levels an
 * Typography - Using brand typeface/font-family(ies) wherever appropriate
 * Typescale - Using UI Light theme typescale patterns (t-shirt sizing: Headings XL, L, M; Body Default, small, Input default, Button default, etc.)
 * Color - using appropriate hex, rgb, hsl/hsb values; Better adoption would be to use the Pulse color tokens which reference Primary, Secondary, Neutral and Status color tokens.
+* Form elements and UI controls - Text inputs, Select, datepicker, checkbox, radio buttons, chips
+* 
 
 Most products as of this writing (Monday, September 26, 2022) are either at a Toe Dipper or Starter level. The product screens may be designed using Pulse, but the codebase is hard coded or doesn't reference design tokens. There are a few products that are further along in design and development and they include Healthiest You, the Acme Health subsystem and most recently, the OneApp project. 
 
@@ -59,13 +61,15 @@ Initially started as a way to give designers and develoeprs a starter pack of co
 
 This project is a major integration project slated to launch on 1/1/2023. This project is intended to merge MyStrenght and Livongo legacy products into the core Teladoc experience, including profile, health device data, health history, et al) when a member logs in to member.teladoc.com.
 
-## Path to adoption
 
-### How to move your project to be using Pulse Latest
 
-#### Design system links
+## Path to adoption - Your success roadmap
 
-#### Dev environments/For developers?
+### For designers: Design system links
+
+### For developers: Dev environment links
+
+### How to move your project to use Pulse Latest
 
 
 

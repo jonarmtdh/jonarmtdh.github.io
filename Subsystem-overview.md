@@ -15,19 +15,13 @@ There are generally 5 publicly facing adoption levels of Pulse that can involve 
 
 **Pulse Alpha**: An offiical sandbox and test for proof of concepts and next generation approaches. This is not something that is supported for use in production, but evaluating what may make it into the Latest branch.
 
-As of this writing, the only complete version in product is for Livongo.com. It is using a legacy version of Pulse 1.*. The sales instance base site is Pulse Toe Dipper as it uses Effra and legacy brand colors (but does not refer to the colors or font-family in a tokenized way):
+As of this writing, the only complete version in product is for Livongo.com. It is using a legacy version of Pulse 1.*. 
+
+The Teladoc [sales instance base site](https://member.usa.sales.teladoc.io/) could be classified as a Pulse Toe Dipper as it uses Effra and legacy brand colors (but does not refer to the colors or font-family in a tokenized way):
 
 ![Sales demo example](/images/220926-sales-instance-rav-mh.png)
 
-<!-- [Impacts or can be used in certain flows or pages, including...]
-
-[Flow or page]
-[Flow or page]
-[Flow or page]
-[Discuss any usage of being nested in complex components], including:
-
-[Modal]
-[Complex component] -->
+However, the WebSDK project uses 
 
 ## Anatomy
 
@@ -35,7 +29,15 @@ Subsystems anatomy begins at the product level.
 
 The first element in a subsystem are the styling tokens. Pulse doesn't try to prescribe as much as it does provide guard rails. Pulse is a global system and should be able to be used to design consumer, provider/clinical and enterprise grade (client) experiences. Spacing, typescale, and grid/layout can be modified to suit a given experience. 
 
+Matching the adoption pattern, subsystems start with the basic, atomic levels and move up to an entire environment for design and development that is Pulse-first where a developer doesn't have to re-invent universal/global components such as buttons, form elements, or other UI controls.
+
+* Typography - Using brand typeface/font-family(ies) wherever appropriate
+* Typescale - Using UI Light theme typescale patterns (t-shirt sizing: Headings XL, L, M; Body Default, small, Input default, Button default, etc.)
+* Color - using appropriate hex, rgb, hsl/hsb values; Better adoption would be to use the Pulse color tokens which reference Primary, Secondary, Neutral and Status color tokens.
+
 Most products as of this writing (Monday, September 26, 2022) are either at a Toe Dipper or Starter level. The product screens may be designed using Pulse, but the codebase is hard coded or doesn't reference design tokens. There are a few products that are further along in design and development and they include Healthiest You, the Acme Health subsystem and most recently, the OneApp project. 
+
+## Current examples
 
 ### Healthiest You
 
@@ -45,7 +47,6 @@ Healthiest You features a subset of core Teladoc experiences and the restyling p
 
 Design is using forked version of Pulse 1.x and has retained component naming conventions from that fork. 
 
-
 ### Acme
 
 Initially started as a way to give designers and develoeprs a starter pack of components and design tokens they could use to leverage for white label (PLI) work. It became one of the first projects in Figma to use Pulse components, but be styled using a fork of Pulse 1.x Style Library, [Acme White Label Theme](https://www.figma.com/file/u3QAQlnwHibHuONhqHzze0/Acme-White-Label-Theme-(Copy)), a Figma style library. The project also has it's own component library as well, [Acme PLI Component Library](https://www.figma.com/file/tTqYsFKy9D1qw3TY1OGgQf/Acme-PLI-Component-Library).
@@ -53,6 +54,14 @@ Initially started as a way to give designers and develoeprs a starter pack of co
 ### One App project
 
 This project is a major integration project slated to launch on 1/1/2023. This project is intended to merge MyStrenght and Livongo legacy products into the core Teladoc experience, including profile, health device data, health history, et al) when a member logs in to member.teladoc.com.
+
+## Path to adoption
+
+### How to move your project to be using Pulse Latest
+
+#### Design system links
+
+#### Dev environments/For developers?
 
 
 

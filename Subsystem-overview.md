@@ -1,5 +1,5 @@
 # Pulse Subsystems
-* TOC {:toc}
+[TOC]({:toc})
 
 #### Usage tab
 

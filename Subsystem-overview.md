@@ -1,5 +1,5 @@
 # Pulse Subsystems
-{:toc}
+* TOC {:toc}
 
 #### Usage tab
 

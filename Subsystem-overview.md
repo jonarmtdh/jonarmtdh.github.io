@@ -23,6 +23,8 @@ The Teladoc [sales instance base site](https://member.usa.sales.teladoc.io/) cou
 
 However, the WebSDK project uses 
 
+`TK content for WebSDK`
+
 ## Anatomy
 
 Subsystems anatomy begins at the product level. 

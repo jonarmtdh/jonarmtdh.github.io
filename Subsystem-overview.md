@@ -19,9 +19,7 @@ As of this writing, the only complete version in product is for Livongo.com. It 
 
 ![Sales demo example](/images/220926-sales-instance-rav-mh.png)
 
-
-
-[Impacts or can be used in certain flows or pages, including...]
+<!-- [Impacts or can be used in certain flows or pages, including...]
 
 [Flow or page]
 [Flow or page]
@@ -29,10 +27,29 @@ As of this writing, the only complete version in product is for Livongo.com. It 
 [Discuss any usage of being nested in complex components], including:
 
 [Modal]
-[Complex component]
+[Complex component] -->
 
 ## Anatomy
-image from Figma upload: Annotated Figma component variant(s)
+
+Subsystems anatomy begins at the product level. 
+Most products as of this writing (Monday, September 26, 2022) are either at a Toe Dipper or Starter level. The product screens may be designed using Pulse, but the codebase is hard coded or doesn't reference design tokens. There are a few products that are further along in design and development and they include Healthiest You, the Acme Health subsystem and most recently, the OneApp project. 
+
+### Healthiest You
+
+Historically, this was the first sub-brand to use a design system informed design using Triage (2020-literally a triage design system in Sketch/Abstract) and has recently been using a forked version of Pulse 1.x styles ([Pulse: HY Styles](https://www.figma.com/file/Y1a1opMhm50xF78AJ894yz/Untitled)) and components ([Pulse: HY Styled Components](https://www.figma.com/file/e9aMJT9QTFklORcUF09CPk/Pulse-HY-Components)) for restyling.
+
+Healthiest You features a subset of core Teladoc experiences and the restyling project designs can be seen here: [HY Screens](https://www.figma.com/file/EO15e06sADFG0ofbAdNGm6/HY-Screens-2022).
+
+
+### Acme
+
+Initially started as a way to give designers and develoeprs a starter pack of components and design tokens they could use to leverage for white label (PLI) work. It became one of the first projects in Figma to use Pulse components, but be styled using a fork of Pulse 1.x Style Library, [Acme White Label Theme](https://www.figma.com/file/u3QAQlnwHibHuONhqHzze0/Acme-White-Label-Theme-(Copy)), a Figma style library. The project also has it's own component library as well, [Acme PLI Component Library](https://www.figma.com/file/tTqYsFKy9D1qw3TY1OGgQf/Acme-PLI-Component-Library).
+
+### One App project
+
+This project is a major integration project slated to launch on 1/1/2023. 
+
+
 
 ## Variants and options
 You can inspect each variant and style in the Figma tab. ["Color overrides" as a subsection here].

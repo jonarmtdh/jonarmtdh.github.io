@@ -16,26 +16,19 @@ This header introduces 3 main size variants (SM, M, L) with toggles for:
 
 ### Left side:
 * Logo (for 4 TDOC brands - Current, legacy, legacy LVGO, legacy MyStrength)
-* Cobrand placeholder
-* Page or site name placeholder
-* Tab-item
+* Cobrand placeholder (optional)
+* Page or site name placeholder (optional)
+* Tab-item (logged in, Large and XLarge viewport sizes)
 
 ### Right side:
 *  Header-item
-    -  Help
+    -  Help (always displayed)
     -  Messages
     -  Profile (has condensed and expanded versions)
-    -  Hamburger menu (for small & medium sizes)
+    -  Hamburger menu (for small & medium viewport sizes;)
 
 ## Changelog
 Dramatically reduced the amount of variants in this component. Followed guidance from existing header work using auto-layout to correctly place and space subcomponents.
-
-### Caveats
-* Badge used is the propped version and this is smaller than the existing Pulse badge
-* It is possible to turn on the dot version of the badge when there is only a label visible for Header-item; do not do this!
-* Use the layer palette to discover additional editable elements:
-    -   If you see a finger pointing, click on that layer and you should see additional formating options in the inspector palette
-    -   Look for a pencil icon in the layer palette for any editable text  
 
 ### New!!
 #### Subcomponents
@@ -61,4 +54,7 @@ Dramatically reduced the amount of variants in this component. Followed guidance
     -  Medium - 768
     -  Large - 1200
 
-
+### Caveats
+* Badge used is the propped version and this is smaller than the existing Pulse badge
+* It is possible to turn on the dot version of the badge when there is only a label visible for Header-item; do not do this!
+* Use the layer palette to discover additional editable elements (this should be addressed in future versions with Figma's "bubble up" functionality)

@@ -21,7 +21,7 @@ As of this writing, the only complete version in product is for Livongo.com. It 
 
 The Teladoc [sales instance base site](https://member.usa.sales.teladoc.io/) could be classified as a Pulse Toe Dipper as it uses Effra and legacy brand colors (but does not refer to the colors or font-family in a tokenized way):
 
-![Sales demo example](/images/220926-sales-instance-rav-mh.png)
+[Sales demo example](/images/220926-sales-instance-rav-mh.png)
 
 However, the WebSDK project uses 
 
@@ -31,7 +31,7 @@ However, the WebSDK project uses
 
 Subsystems anatomy begins at the product level. 
 
-The first element in a subsystem are the styling tokens. Pulse doesn't try to prescribe as much as it does provide guard rails. Pulse is a global system and should be able to be used to design consumer, provider/clinical and enterprise grade (client) experiences. Spacing, typescale, and grid/layout can be modified to suit a given experience. 
+The first element in a subsystem are the styling tokens. Pulse doesn't try to prescribe as much as it does provide guard rails. Pulse is a global system and should be able to be used to design consumer, provider/clinical and enterprise grade (client) experiences. Spacing, typescale, and grid/layout can be modified to suit a given experience, but Pulse tokens shouldn't be modified directly. 
 
 Matching the adoption pattern, subsystems start with the basic, atomic levels and move up to an entire environment for design and development that is Pulse-first where a developer doesn't have to re-invent universal/global components such as buttons, form elements, or other UI controls.
 

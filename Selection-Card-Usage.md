@@ -26,17 +26,16 @@ Examples for this use case are:
 * As a replacement for dropdown lists with 5 or less items
 
 ### Why use this over regular components?
-Selection Card is meant to draw attention to the possible items and be easier to use than regular components. Use Selection Cards when the primary action on a screen is to make a selection and then move on in a flow.
+`Selection Card` is meant to draw attention to the possible items and be easier to use than regular components. Use `Selection Card` when the primary action on a screen is to make a selection and then move on in a flow.
 
-Use Selection Cards when ease of use and attention to a selection is more important than presenting tons of data or information. The action area/tap target is the entire card and is easier to interact with. This is a benefit for members with mobility and vision issues. Seeing which items have been selected is an easier cognitive lift and the selection itself requires less fine motor precision.
+Use `Selection Card` when ease of use and attention to a selection is more important than presenting tons of data or information. The action area/tap target is the entire card and is easier to interact with. This is a benefit for members with mobility and vision issues. Seeing which items have been selected is an easier cognitive lift and the selection itself requires less fine motor precision.
 
 ### When do I use regular components instead?
 Complex, data dense screens where the selection of items is one of many actions needed to complete a flow or step are more suited to the regular components;
 When there is a premium placed on vertical spacing; Selection Cards are meant to be large and easy to interact with and read but take up more vertical real estate than regular radio buttons and checkboxes;
 
  
-Add
-#### [Selection Card]
+### [Selection Card]
 
 [Briefly discuss how component could have potential variants, styles, and options. Include any additional components (optional) if needed.]
 

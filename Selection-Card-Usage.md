@@ -288,6 +288,36 @@ Checklist legend
         </td>
     </tr>
     <tr>
+        <td>⛔ Usage</td>
+        <td>Animation *conditional</td>
+        <td>Include when animation is pertinent to the component UX (e.g., toast notification)
+        </td>
+    </tr>
+    <tr>
+        <td>⛔ Usage</td>
+        <td>Examples</td>
+        <td>Include when a vetted, production example is readily available
+        </td>
+    </tr>
+    <tr>
+        <td>⛔ Usage</td>
+        <td>Content guidelines</td>
+        <td>
+            Includes content standards and best practices for how to write for the specific component
+            Review with Content team
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <td></td>
         <td></td>
         <td></td>
@@ -295,19 +325,6 @@ Checklist legend
 
 
 
-
-
-
-⛔
-Usage, Animation *conditional
-Include when animation is pertinent to the component UX (e.g., toast notification)
-⛔
-Usage, Examples 
-Include when a vetted, production example is readily available
-⛔
-Usage, Content guidelines
-Includes content standards and best practices for how to write for the specific component
-Review with Content team
 ⛔
 Usage, Accessibility 
 Include specific component considerations as bullet-point guidelines

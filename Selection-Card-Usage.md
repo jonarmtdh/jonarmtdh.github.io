@@ -19,7 +19,7 @@ This component is not restricted to only these use cases. designers should feel 
 
 There is another, seemingly counterintuitive use case to the Selection Card and that is as a large Radio Button or Checkbox. These are used in lists of items where the design calls for amplifying the visibility and interactivity of selectable items. It is still a card, but consists only of  a label and the selection indicator. 
 
-**Examples for this use case are: **
+**Examples for this use case are:**
 
 * **Single select list of types of care:** - Urgent care, primary care, mental health, etc. 
 * **Single select OR multiple selection of symptoms/conditions** 

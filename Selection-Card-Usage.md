@@ -1,4 +1,6 @@
-| Ensure that the existing component content is saved (duplicated in separate tab) before making edits to the tab that is active
+> Ensure that the existing component content is saved (duplicated in
+> separate tab) before making edits to the tab that is active 
+
 Overview
 
  

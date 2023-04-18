@@ -259,15 +259,11 @@ Breakdown of any optional components |
 | ⛔ Usage | Examples | Include when a vetted, production example is readily available |
 | ⛔ Usage | Content guidelines | Includes content standards and best practices for how to write for the specific component;<br>
 Review with Content team |
-| ⛔ Usage | Accessibility | Include specific component considerations as bullet-point guidelines<br>
-Review with a11y team |
-| ⛔ Usage | Related | Include other components that broadly relate to the function of the component<br>
-Briefly explain how this component differs in usage but addresses similar needs |
+| ⛔ Usage | Accessibility | Include specific component considerations as bullet-point guidelines<br><br>Review with a11y team |
+| ⛔ Usage | Related | Include other components that broadly relate to the function of the component<br>Briefly explain how this component differs in usage but addresses similar needs |
 | Usage | Changelog | Include 2.2.0 and any 3.0.0 versioning |
 | ⛔ Figma | 2.2.0 | Existing content will need to be reevaluated to provide consistent, comprehensive information |
-| Figma | 3.0.0 Props | Provide overview of component properties used for main component(s) and any conditional sub-components<br>
-Provide matrices list of all variants available (as image assets)<br>
-Provide conditional "build tips" if rules, guidance, maintenance, or other extra steps is needed to use the component
+| Figma | 3.0.0 Props | Provide overview of component properties used for main component(s) and any conditional sub-components<br>Provide matrices list of all variants available (as image assets)<br>Provide conditional "build tips" if rules, guidance, maintenance, or other extra steps is needed to use the component
 
 
 

@@ -246,8 +246,11 @@ Add shortcut
 **Checklist legend**
 
 📝 = In progress 
+
 🔍 = In review
+
 ✅ = Completed
+
 ⛔ = Not in scope
 
 <table style="width:80%">

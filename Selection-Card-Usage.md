@@ -251,13 +251,15 @@ Checklist legend
 
 <table style="width:80%">
  <tr>
-  <td><strong>Status</strong></td>
-  <td>Item</td>
-  <td style="width:50%">Description</td>
-</table>
-
-Usage, Overview
-Include brief description of intended use, any variant or style descriptions, and possible usage across other components, pages, and flows
+    <td><strong>Status</strong></td>
+    <td>Item</td>
+    <td style="width:50%">Description</td>
+  <tr>
+    <tr>
+        <td>Usage</td>
+        <td>Overview</td>
+        <td>Include brief description of intended use, any variant or style descriptions, and possible usage across other components, pages, and flows</td>
+    </tr>
 
 Usage, Anatomy
 Breakdown of the main component
@@ -303,4 +305,5 @@ Provide overview of component properties used for main component(s) and any cond
 Provide matrices list of all variants available (as image assets)
 Provide conditional "build tips" if rules, guidance, maintenance, or other extra steps is needed to use the component
 
+</table>
 

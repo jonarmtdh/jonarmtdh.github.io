@@ -249,9 +249,12 @@ Checklist legend
 
 ⛔ = Not in scope
 
-Status
-Item
-Description
+<table style="width:80%">
+ <tr>
+  <td><strong>Status</strong></td>
+  <td>Item</td>
+  <td style="width:50%">Description</td>
+</table>
 
 Usage, Overview
 Include brief description of intended use, any variant or style descriptions, and possible usage across other components, pages, and flows

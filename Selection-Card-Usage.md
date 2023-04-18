@@ -220,9 +220,9 @@ Add shortcut
 
 <table>
     <tr>
-        <td> **Date** </td>
-        <td> **Number** </td>
-        <td> **Notes** </td>
+        <td> <strong>Date</strong> </td>
+        <td> <strong>Number</strong> </td>
+        <td> <strong>Notes</strong> </td>
     </tr>
     <tr>
         <td>Mon XX, 202X</td>

@@ -7,9 +7,9 @@
 
 The primary use case for a `Selection Card` is when the item to be selected contains complex and varied information. Current examples include:
 
-- Pharmacy selection where there is more information than a singular label –Name, Address, distance from member, hours of operation; 
-- “Who needs care today?” where a member name, age and assigned gender at birth is displayed
-- Payment method – Credit card number, issuing organization (AMEX, MasterCard, Visa, etc) and expiration date
+- Pharmacy selection where there is more information than a singular label – Name, Address, distance from member, hours of operation; 
+- “Who needs care today?” where a member name, age and assigned gender at birth is displayed;
+- Payment method – Credit card number, issuing organization (AMEX, MasterCard, Visa, etc) and expiration date (`Selection Card` can display warning and error states "this card will expire in less than 30 days, please update this method of payment"; "This payment method has expired, please update")
 
 This component is not restricted to only these use cases. designers should feel free to design their own use cases. To allow for this, we provide a “shell” version of the component. This consists of two slots:
 
@@ -44,6 +44,7 @@ When there is a premium placed on vertical spacing; Selection Cards are meant to
 
 It is ideal for [calling out / highlighting / focusing / achieving desired consequence etc].
 
+***
 
 ## Product usage
 
@@ -53,6 +54,7 @@ It is ideal for [calling out / highlighting / focusing / achieving desired conse
 [Flow or page]
 [Flow or page]
 
+***
 
 ## Component usage
 
@@ -63,7 +65,7 @@ As a basic component, this component is leveraged in other Pulse complex compone
 [Basic-component]
 [Basic-component]
 
-
+***
 
 ## Anatomy
 
@@ -77,7 +79,7 @@ As a basic component, this component is leveraged in other Pulse complex compone
 Add "Web" sub-header (H3) to existing anatomy section above
 Duplicate image and paragraph template of anatomy below web section; add "Native" sub-header (H3); if needing iOS and Android specificity, repeat this step and add respective "iOS" and "Android" sub-headers (H3)
 
-
+***
 
 ## Variants and options
 
@@ -89,6 +91,7 @@ Add "Web" sub-header (H3) to existing anatomy section above
 Duplicate section of Image Upload above and place below; add "Native" sub-header (H3); if needing iOS and Android specificity, repeat this step and add respective "iOS" and "Android" sub-headers (H3)
 
 
+***
 
 ## Placement
 
@@ -99,7 +102,6 @@ This section is an example of when a full-scale image is used to demonstrate pla
 The image can display an entire desktop or mobile view, partial view of a desktop or mobile view, partial view of a desktop or mobile view, full or partial view of a complex component, or a general layout of basic comments. 
 
 Write a general description about what is in the full-width image. May or may not include badging to specify specific parts of the image. 
-
 
 
 ### [Placement guidelines title 2]
@@ -117,7 +119,7 @@ Do
 Don’t
 
 
-
+***
 
 ## Interaction
 
@@ -129,7 +131,7 @@ Don’t
 Add "Web" sub-header (H3) to existing interaction section above
 Duplicate image and paragraph template of interaction below web section; add "Native" sub-header (H3); if needing iOS and Android specificity, repeat this step and add respective "iOS" and "Android" sub-headers (H3)
 
-
+***
 
 ## Animation 
 
@@ -138,18 +140,19 @@ Duplicate image and paragraph template of interaction below web section; add "Na
 Add "Web" sub-header (H3) to existing interaction section above
 Add "Native" sub-header (H3); if needing iOS and Android specificity, repeat this step and add respective "iOS" and "Android" sub-headers (H3). Content can be broken down as image step-by-step as above OR listed out as simple bullet points.
 
-
+***
 
 ## Examples 
 
 
 
 
-
+***
 
 ## Content guidelines
 
 [All of content guides should be broken down as sections (i.e., each guideline, a section). Each section has a bold paragraph title followed by a description as paragraph, followed by using the Rules widget. Content guidelines can be used for SPECIFIC content or icons usage within the component.] 
+
 
 ### [Guideline #1]
 
@@ -172,7 +175,7 @@ Don’t
 For general guidance on how to write for Teladoc Health products, see Content.
 
 
-
+***
 
 ## Accessibility
 
@@ -205,36 +208,38 @@ For general guidance on how to write for Teladoc Health products, see Content.
 [Description of specific consideration]
 
 
+***
 
 ## Related 
 
-
-
-
-
-
-
 Add shortcut
 
-
+***
 
 ## Changelog
 
-Date
-Number
-Notes
-Mon XX, 202X
-vX.X.X
-Line item
-Mon XX, 202X
-vX.X.X
-Line item
-Line item
-Mon XX, 202X
-vX.X.X
-Line item
+<table>
+    <tr>
+        <td>**Date**</td>
+        <td>**Number**</td>
+        <td>**Notes**</td>
+    </tr>
+    <tr>
+        <td>Mon XX, 202X</td>
+        <td>vX.X.X</td>
+        <td>Line item</td>
+    </tr>
+    <tr>
+        <td>Mon XX, 202X</td>
+        <td>vX.X.X</td>
+        <td>
+            Line item
+            Line item
+        </td>
+    </tr>
+</table>
 
-
+***
 
 ## Pulse Team Checklist
 

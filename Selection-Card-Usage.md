@@ -260,20 +260,44 @@ Checklist legend
         <td>Overview</td>
         <td>Include brief description of intended use, any variant or style descriptions, and possible usage across other components, pages, and flows</td>
     </tr>
+    <tr>
+        <td>Usage</td>
+        <td>Anatomy</td>
+        <td>
+            Breakdown of the main component
+            Breakdown of any optional components
+        </td>
+    </tr>
+    <tr>
+        <td>Usage</td>
+        <td>Variants and options</td>
+        <td>
+            Include all possible variants 
+            Include all possible options
+        </td>
+    </tr>
+    <tr>
+        <td>Usage</td>
+        <td>Placement</td>
+        <td>Show low-to-med fidelity of component placement on UI, surfaces, complex components etc.</td>
+    </tr>
+    <tr>
+        <td>Usage</td>
+        <td>Interaction *Conditional</td>
+        <td>Include when component has interaction requirements (click, tap, gesture etc).
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 
-Usage, Anatomy
-Breakdown of the main component
-Breakdown of any optional components
 
-Usage, Variants and options
-Include all possible variants 
-Include all possible options
 
-Usage, Placement
-Show low-to-med fidelity of component placement on UI, surfaces, complex components etc.
 
-Interaction *conditional
-Include when component has interaction requirements (click, tap, gesture etc).
+
+
 ⛔
 Usage, Animation *conditional
 Include when animation is pertinent to the component UX (e.g., toast notification)

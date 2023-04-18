@@ -250,20 +250,19 @@ Add shortcut
 | Status | Item | Description|
 |--------|:----|:-----------|
 | Usage | Overview | Include brief description of intended use, any variant or style descriptions, and possible usage across other components, pages, and flows
-| Usage | Anatomy | Breakdown of the main component <br>
+| Usage | Anatomy | Breakdown of the main component <br><br>
 Breakdown of any optional components |
-| Usage | Variants and options | Include all possible variants;<br>Include all possible options |
+| Usage | Variants and options | Include all possible variants;<br><br>Include all possible options |
 | Usage | Placement | Show low-to-med fidelity of component placement on UI, surfaces, complex components etc. |
 | Interaction | *conditional | Include when component has interaction requirements (click, tap, gesture etc). |
 | ⛔ Usage | Animation *conditional | Include when animation is pertinent to the component UX (e.g., toast notification) |
 | ⛔ Usage | Examples | Include when a vetted, production example is readily available |
-| ⛔ Usage | Content guidelines | Includes content standards and best practices for how to write for the specific component;<br>
-Review with Content team |
+| ⛔ Usage | Content guidelines | Includes content standards and best practices for how to write for the specific component;<br><br>Review with Content team |
 | ⛔ Usage | Accessibility | Include specific component considerations as bullet-point guidelines<br><br>Review with a11y team |
-| ⛔ Usage | Related | Include other components that broadly relate to the function of the component<br>Briefly explain how this component differs in usage but addresses similar needs |
+| ⛔ Usage | Related | Include other components that broadly relate to the function of the component<br><br>Briefly explain how this component differs in usage but addresses similar needs |
 | Usage | Changelog | Include 2.2.0 and any 3.0.0 versioning |
 | ⛔ Figma | 2.2.0 | Existing content will need to be reevaluated to provide consistent, comprehensive information |
-| Figma | 3.0.0 Props | Provide overview of component properties used for main component(s) and any conditional sub-components<br>Provide matrices list of all variants available (as image assets)<br>Provide conditional "build tips" if rules, guidance, maintenance, or other extra steps is needed to use the component
+| Figma | 3.0.0 Props | Provide overview of component properties used for main component(s) and any conditional sub-components<br><br>Provide matrices list of all variants available (as image assets)<br><br>Provide conditional "build tips" if rules, guidance, maintenance, or other extra steps is needed to use the component
 
 
 

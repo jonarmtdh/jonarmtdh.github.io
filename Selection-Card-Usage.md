@@ -303,17 +303,20 @@ Checklist legend
         <td>⛔ Usage</td>
         <td>Content guidelines</td>
         <td>
-            Includes content standards and best practices for how to write for the specific component
-            Review with Content team
+            <p>Includes content standards and best practices for how to write for the specific componen</p>
+            <p>Review with Content team</p>
         </td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>⛔ Usage</td>
+        <td>Accessibility</td>
+        <td>
+            Include specific component considerations as bullet-point guidelines
+            Review with a11y team
+        </td>
     </tr>
     <tr>
-        <td></td>
+        <td>⛔ Usage</td>
         <td></td>
         <td></td>
     </tr>
@@ -337,6 +340,7 @@ Briefly explain how this component differs in usage but addresses similar needs
 Usage, Changelog
 
 Include 2.2.0 and any 3.0.0 versioning
+
 ⛔
 Figma, 2.2.0
 Existing content will need to be reevaluated to provide consistent, comprehensive information

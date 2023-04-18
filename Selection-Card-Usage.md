@@ -245,7 +245,7 @@ Add shortcut
 
 **Checklist legend**
 
-📝 = In progress &nbps;&nbps; 🔍 = In review &nbps;&nbps;  ✅ = Completed &nbps;&nbps;  ⛔ = Not in scope &nbps;&nbps;
+📝 = In progress &nbsp;&nbsp; 🔍 = In review &nbsp;&nbsp;  ✅ = Completed &nbsp;&nbsp;  ⛔ = Not in scope &nbsp;&nbsp;
 
 <table style="width:80%">
  <tr>

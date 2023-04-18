@@ -1,11 +1,11 @@
 > Ensure that the existing component content is saved (duplicated in
 > separate tab) before making edits to the tab that is active 
 
-Overview
+## Overview
 
  
 Add
-[Component] [intended action or design]. 
+[Selection Card] . 
 
 [Briefly discuss how component could have potential variants, styles, and options. Include any additional components (optional) if needed.]
 
@@ -13,7 +13,7 @@ It is ideal for [calling out / highlighting / focusing / achieving desired conse
 
 
 
-Product usage
+## Product usage
 
 Some common uses include:
 
@@ -22,7 +22,7 @@ Some common uses include:
 [Flow or page]
 
 
-Component usage
+## Component usage
 
 [This section is condition to if component is used in other complex components; if not needed, "Component usage" section can be removed.]
 
@@ -33,7 +33,7 @@ As a basic component, this component is leveraged in other Pulse complex compone
 
 
 
-Anatomy
+## Anatomy
 
  
 Add
@@ -47,7 +47,7 @@ Duplicate image and paragraph template of anatomy below web section; add "Native
 
 
 
-Variants and options
+## Variants and options
 
 You can inspect each variant and style in the Figma tab. 
 
@@ -58,9 +58,9 @@ Duplicate section of Image Upload above and place below; add "Native" sub-header
 
 
 
-Placement
+## Placement
 
-[Placement guidelines title 1]
+### [Placement guidelines title 1]
 
 This section is an example of when a full-scale image is used to demonstrate placement, alongside an title and description. 
 
@@ -70,7 +70,7 @@ Write a general description about what is in the full-width image. May or may no
 
 
 
-[Placement guidelines title 2]
+### [Placement guidelines title 2]
 
 Add another rule
 Do
@@ -87,7 +87,7 @@ Don’t
 
 
 
-Interaction
+## Interaction
 
 [This paragraph is a brief description of interaction targets available to the user.]
 
@@ -99,7 +99,7 @@ Duplicate image and paragraph template of interaction below web section; add "Na
 
 
 
-Animation 
+## Animation 
 
 **If there are animation differences between web and native components...
 
@@ -108,18 +108,18 @@ Add "Native" sub-header (H3); if needing iOS and Android specificity, repeat thi
 
 
 
-Examples 
+## Examples 
 
 
 
 
 
 
-Content guidelines
+## Content guidelines
 
 [All of content guides should be broken down as sections (i.e., each guideline, a section). Each section has a bold paragraph title followed by a description as paragraph, followed by using the Rules widget. Content guidelines can be used for SPECIFIC content or icons usage within the component.] 
 
-[Guideline #1]
+### [Guideline #1]
 
 Text used in button should generally be one or two words, four at max. Fewer than 20 characters should be used (including spaces).
 
@@ -142,9 +142,9 @@ For general guidance on how to write for Teladoc Health products, see Content.
 
 
 
-Accessibility
+## Accessibility
 
-General considerations
+### General considerations
 
 [Description of any accessibility standards when considering the component. If the guidance applies to all platforms, this section is where to document]
 
@@ -159,14 +159,14 @@ General considerations
 [Description of specific consideration]
 
 
-Web considerations 
+### Web considerations 
 
 [Have "Web considerations" section if there are web-only considerations, such as navigating using the web browser]
 [Description of specific consideration]
 [Description of specific consideration]
 
 
-Native considerations
+### Native considerations
 
 [Have "Native considerations" if there are native-only considerations, such as swiping between pages]
 [Description of specific consideration]
@@ -174,7 +174,7 @@ Native considerations
 
 
 
-Related 
+## Related 
 
 
 
@@ -186,7 +186,7 @@ Add shortcut
 
 
 
-Changelog
+## Changelog
 
 Date
 Number
@@ -204,7 +204,7 @@ Line item
 
 
 
-Pulse Team Checklist
+## Pulse Team Checklist
 
 Checklist legend
 

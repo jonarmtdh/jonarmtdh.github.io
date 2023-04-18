@@ -247,7 +247,16 @@ Add shortcut
 
 📝 = In progress &nbsp;&nbsp; 🔍 = In review &nbsp;&nbsp;  ✅ = Completed &nbsp;&nbsp;  ⛔ = Not in scope &nbsp;&nbsp;
 
-<table style="width:80%">
+| Status | Item | Description|
+|--------|:----:|:----------:|
+| Usage | Overview | Include brief description of intended use, any variant or style descriptions, and possible usage across other components, pages, and flows
+
+
+
+
+
+
+<table>
  <tr>
     <td><strong>Status</strong></td>
     <td>Item</td>

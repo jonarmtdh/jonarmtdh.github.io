@@ -243,10 +243,11 @@ Add shortcut
 
 ## Pulse Team Checklist
 
-Checklist legend
+**Checklist legend**
 
-📝 = In progress 🔍 = In review✅ = Completed
-
+📝 = In progress 
+🔍 = In review
+✅ = Completed
 ⛔ = Not in scope
 
 <table style="width:80%">

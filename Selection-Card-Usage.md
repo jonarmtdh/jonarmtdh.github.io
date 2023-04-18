@@ -6,6 +6,7 @@
 ### Use case —  items with a lot of metadata
 
 The primary use case for a `Selection Card` is when the item to be selected contains complex and varied information. Current examples include:
+
 - Pharmacy selection where there is more information than a singular label –Name, Address, distance from member, hours of operation; 
 - “Who needs care today?” where a member name, age and assigned gender at birth is displayed
 - Payment method – Credit card number, issuing organization (AMEX, MasterCard, Visa, etc) and expiration date
@@ -33,6 +34,7 @@ Use `Selection Card` when ease of use and attention to a selection is more impor
 
 ### When do I use regular components instead?
 Complex, data dense screens where the selection of items is one of many actions needed to complete a flow or step are more suited to the regular components;
+
 When there is a premium placed on vertical spacing; Selection Cards are meant to be large and easy to interact with and read but take up more vertical real estate than regular radio buttons and checkboxes;
 
  
@@ -43,10 +45,9 @@ When there is a premium placed on vertical spacing; Selection Cards are meant to
 It is ideal for [calling out / highlighting / focusing / achieving desired consequence etc].
 
 
-
 ## Product usage
 
-Some common uses include:
+### Some common uses include:
 
 [Flow or page]
 [Flow or page]
@@ -66,8 +67,8 @@ As a basic component, this component is leveraged in other Pulse complex compone
 
 ## Anatomy
 
- 
-Add
+`Design Upload here-TK`
+
 [Element / component *ensure name is what is used in eng; add hyperlink to text if available]
 
 

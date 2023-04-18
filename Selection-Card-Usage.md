@@ -1,6 +1,9 @@
 > Ensure that the existing component content is saved (duplicated in
 > separate tab) before making edits to the tab that is active 
 
+##### This is an h5
+###### This is an h6
+
 ## Overview
 
 ### Use case —  items with a lot of metadata

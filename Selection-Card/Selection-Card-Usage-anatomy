@@ -1,0 +1,12 @@
+## Anatomy
+
+`Design Upload here-TK`
+
+[Element / component *ensure name is what is used in eng; add hyperlink to text if available]
+
+
+**If there are anatomical differences between web and native components...
+
+Add "Web" sub-header (H3) to existing anatomy section above
+Duplicate image and paragraph template of anatomy below web section; add "Native" sub-header (H3); if needing iOS and Android specificity, repeat this step and add respective "iOS" and "Android" sub-headers (H3)
+
